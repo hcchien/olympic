@@ -1,85 +1,85 @@
-weightlifting, Asia, 14
-weightlifting, Europe, 3
-weightlifting, North America, 5
-freestyle_wrestling, Asia, 19
-freestyle_wrestling, Europe, 8
-freestyle_wrestling, North America, 10
-gymnastics, Asia, 24
-gymnastics, North America, 8
-gymnastics, Europe, 20
+athletics, , 6
+athletics, Africa, 55
+athletics, Asia, 80
+athletics, South America, 9
 athletics, Europe, 310
 athletics, North America, 305
 athletics, Oceania, 28
-athletics, , 6
-athletics, Asia, 80
-athletics, South America, 9
-athletics, Africa, 55
+Judo, Europe, 43
+Judo, North America, 7
 Judo, Asia, 70
 Judo, South America, 3
-Judo, North America, 7
-Judo, Europe, 43
-taekondo, Asia, 18
-taekondo, Europe, 5
-taekondo, North America, 5
-taekondo, South America, 1
-taekondo, , 2
-taekondo, Oceania, 1
-table tennis, Europe, 1
-table tennis, Asia, 25
-diving, Asia, 10
-diving, Europe, 15
-diving, North America, 23
-diving, Oceania, 3
+greco-roman_wrestling, North America, 8
+greco-roman_wrestling, Europe, 110
+greco-roman_wrestling, Africa, 2
+greco-roman_wrestling, Asia, 67
+weightlifting, Asia, 14
+weightlifting, Europe, 3
+weightlifting, North America, 5
+swimming, , 7
+swimming, Africa, 5
+swimming, Asia, 21
+swimming, Oceania, 27
 swimming, North America, 97
 swimming, Europe, 118
-swimming, Asia, 21
-swimming, Africa, 5
-swimming, Oceania, 27
-swimming, , 7
-equestrian, Europe, 109
-equestrian, North America, 15
-equestrian, South America, 1
-equestrian, Asia, 7
-equestrian, Oceania, 9
-rowling, Oceania, 15
-rowling, Asia, 11
-rowling, North America, 16
-rowling, Europe, 81
-rowling, South America, 1
-cycling, South America, 1
-cycling, North America, 2
-cycling, Europe, 57
-cycling, Asia, 6
-cycling, Oceania, 3
-greco-roman_wrestling, Asia, 67
-greco-roman_wrestling, Europe, 110
-greco-roman_wrestling, North America, 8
-greco-roman_wrestling, Africa, 2
-tennis, Asia, 1
-tennis, Europe, 33
-tennis, North America, 21
-tennis, South America, 2
-tennis, Oceania, 1
-tennis, Africa, 3
-canoeing, Asia, 10
-canoeing, North America, 1
-canoeing, Europe, 52
-canoeing, Oceania, 1
-shooting, Europe, 3
-shooting, Asia, 4
-sailing, Oceania, 35
-sailing, , 2
-sailing, South America, 10
-sailing, Europe, 206
-sailing, North America, 37
-sailing, Asia, 16
-badminton, Europe, 1
-badminton, Asia, 28
+boxing, South America, 3
 boxing, Asia, 8
 boxing, North America, 9
 boxing, Europe, 16
-boxing, South America, 3
-archery, Oceania, 1
+tennis, Oceania, 1
+tennis, North America, 21
+tennis, Europe, 33
+tennis, South America, 2
+tennis, Africa, 3
+tennis, Asia, 1
+equestrian, South America, 1
+equestrian, Asia, 7
+equestrian, North America, 15
+equestrian, Oceania, 9
+equestrian, Europe, 109
 archery, Europe, 4
+archery, Oceania, 1
 archery, North America, 7
 archery, Asia, 10
+canoeing, Oceania, 1
+canoeing, North America, 1
+canoeing, Europe, 52
+canoeing, Asia, 10
+shooting, Europe, 3
+shooting, Asia, 4
+diving, Asia, 10
+diving, Europe, 15
+diving, Oceania, 3
+diving, North America, 23
+taekondo, Oceania, 1
+taekondo, North America, 5
+taekondo, Europe, 5
+taekondo, , 2
+taekondo, South America, 1
+taekondo, Asia, 18
+rowling, South America, 1
+rowling, Asia, 11
+rowling, North America, 16
+rowling, Oceania, 15
+rowling, Europe, 81
+badminton, Europe, 1
+badminton, Asia, 28
+cycling, South America, 1
+cycling, Asia, 6
+cycling, North America, 2
+cycling, Oceania, 3
+cycling, Europe, 57
+sailing, Europe, 206
+sailing, North America, 37
+sailing, Oceania, 35
+sailing, Asia, 16
+sailing, South America, 10
+sailing, , 2
+table tennis, Europe, 1
+table tennis, Asia, 25
+freestyle_wrestling, Europe, 8
+freestyle_wrestling, North America, 10
+freestyle_wrestling, Asia, 19
+gymnastics, North America, 8
+gymnastics, Europe, 20
+gymnastics, Asia, 24
