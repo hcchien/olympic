@@ -93,11 +93,14 @@ for my $item (sort keys %$grade_continent) {
 open GRADE_YEAR, ">year_grade.csv";
 open GOLD_YEAR, ">year_gold.csv";
 for my $item (sort keys %$grade_year) {
-    for my $year (sort keys %{$grade_year->{$item}}) {
+    open GRADE_ITEM, ">./item/$item.csv" or die $!;
+    for my $year (keys %{$grade_year->{$item}}) {
         for my $country (sort keys %{$grade_year->{$item}->{$year}}) {
             print GRADE_YEAR "$item, $year, $country, $grade_year->{$item}->{$year}->{$country}\n";
+            print GRADE_ITEM "$country, $year, $grade_year->{$item}->{$year}->{$country}\n";
             print GOLD_YEAR "$item, $year, $country, $gold_year->{$item}->{$year}->{$country}\n" if ($gold_year->{$item}->{$year}->{$country});
             #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
         }
     }
+    close GRADE_ITEM;
 }
