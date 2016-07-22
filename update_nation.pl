@@ -100,8 +100,8 @@ for my $item (keys %$grade_year) {
         print GRADE_ITEM join ",", @yearly;
         print GRADE_ITEM "\n";
     }
+    close GRADE_ITEM;
 }
-
 
 open GRADE, ">nation_grade.csv";
 open GOLD, ">nation_gold.csv";
@@ -122,6 +122,7 @@ for my $item (sort keys %$grade_continent) {
     }
 }
 
+__END__
 open GRADE_YEAR, ">year_grade.csv";
 open GOLD_YEAR, ">year_gold.csv";
 for my $item (sort keys %$grade_year) {

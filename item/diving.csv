@@ -1,79 +1,25 @@
-Germany, 1904, 3
-Sweden, 1904, 6
-United States, 1904, 4
-Germany, 1912, 2
-Great Britain, 1912, 1
-Sweden, 1912, 15
-Denmark, 1920, 3
-Great Britain, 1920, 2
-Sweden, 1920, 9
-United States, 1920, 4
-Australia, 1924, 3
-Great Britain, 1924, 1
-Sweden, 1924, 3
-United States, 1924, 11
-Egypt, 1928, 2
-Sweden, 1928, 1
-United States, 1928, 9
-United States, 1932, 12
-Germany, 1936, 2
-United States, 1936, 10
-Denmark, 1948, 1
-Mexico, 1948, 1
-United States, 1948, 10
-Germany, 1952, 1
-Mexico, 1952, 2
-United States, 1952, 9
-Mexico, 1956, 3
-United States, 1956, 9
-Germany, 1960, 3
-Great Britain, 1960, 1
-Soviet Union, 1960, 1
-United States, 1960, 7
-Germany, 1964, 2
-Italy, 1964, 2
-Soviet Union, 1964, 1
-United States, 1964, 7
-Czechoslovakia, 1968, 3
-Italy, 1968, 3
-Mexico, 1968, 2
-Soviet Union, 1968, 2
-United States, 1968, 2
-Czechoslovakia, 1972, 2
-East Germany, 1972, 1
-Italy, 1972, 4
-Sweden, 1972, 3
-United States, 1972, 2
-Italy, 1976, 3
-Soviet Union, 1976, 4
-Sweden, 1976, 2
-United States, 1976, 3
-East Germany, 1980, 6
-Soviet Union, 1980, 6
-China, 1984, 4
-United States, 1984, 8
-China, 1988, 5
-Mexico, 1988, 1
-United States, 1988, 6
-China, 1992, 7
-Unified Team, 1992, 2
-United States, 1992, 3
-China, 1996, 4
-Germany, 1996, 4
-Russia, 1996, 3
-United States, 1996, 1
-Canada, 2000, 1
-China, 2000, 7
-Russia, 2000, 1
-United States, 2000, 3
-Australia, 2004, 6
-China, 2004, 6
-Australia, 2008, 3
-Canada, 2008, 2
-China, 2008, 6
-Russia, 2008, 1
-Australia, 2012, 2
-China, 2012, 5
-Great Britain, 2012, 1
-Malaysia, 2012, 1
-United States, 2012, 3
+,Australia,Russia,Denmark,Egypt,China,Mexico,Soviet Union,Canada,Unified Team,Italy,Malaysia,East Germany,Great Britain,Sweden,Czechoslovakia,Germany,United States
+1904,0,0,0,0,0,0,0,3,0,0,0,0,0,0,6,0,4
+1912,0,0,0,0,0,0,0,2,1,0,0,0,0,0,15,0,0
+1920,0,0,0,0,3,0,0,0,2,0,0,0,0,0,9,0,4
+1924,3,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,11
+1928,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,9
+1932,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+1936,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,10
+1948,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,10
+1952,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,9
+1956,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,9
+1960,0,0,0,0,0,0,0,3,1,0,0,0,0,1,0,0,7
+1964,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,0,7
+1968,0,0,0,3,0,0,0,0,0,3,0,2,0,2,0,0,2
+1972,0,0,0,2,0,1,0,0,0,4,0,0,0,0,3,0,2
+1976,0,0,0,0,0,0,0,0,0,3,0,0,0,4,2,0,3
+1980,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,0,0
+1984,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+1988,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,6
+1992,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+1996,0,0,4,0,0,0,0,4,0,0,0,0,3,0,0,0,1
+2000,0,1,7,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+2004,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,3,2,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2012,2,0,5,0,0,0,0,0,1,0,1,0,0,0,0,0,3
