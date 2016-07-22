@@ -60,11 +60,11 @@ for my $current (glob("all.csv")) {
             print "$r[6]\n";
             $gold->{$r[0]}->{$r[6]}++;
             $gold_continent->{$r[0]}->{$r[8]}++;
-            $gold_year->{$r[0]}->{$year}->{$r[6]}++;
+            $gold_year->{$r[0]}->{$r[6]}->{$year}++;
         } elsif ($r[4] == 3) { $point = 1 } else { $point = 2 }
         $grade->{$r[0]}->{$r[6]} += $point;
         $grade_continent->{$r[0]}->{$r[8]} += $point;
-        $grade_year->{$r[0]}->{$year}->{$r[6]} += $point;
+        $grade_year->{$r[0]}->{$r[6]}->{$year} += $point;
         my $new = join(',', @r) . "\n" unless ($r[3] =~ /2016/);
         print FILE "$new";
     }
@@ -94,11 +94,22 @@ open GRADE_YEAR, ">year_grade.csv";
 open GOLD_YEAR, ">year_gold.csv";
 for my $item (sort keys %$grade_year) {
     open GRADE_ITEM, ">./item/$item.csv" or die $!;
-    for my $year (keys %{$grade_year->{$item}}) {
+    for my $year (sort keys %{$grade_year->{$item}}) {
         for my $country (sort keys %{$grade_year->{$item}->{$year}}) {
             print GRADE_YEAR "$item, $year, $country, $grade_year->{$item}->{$year}->{$country}\n";
             print GRADE_ITEM "$country, $year, $grade_year->{$item}->{$year}->{$country}\n";
             print GOLD_YEAR "$item, $year, $country, $gold_year->{$item}->{$year}->{$country}\n" if ($gold_year->{$item}->{$year}->{$country});
+            #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
+        }
+    }
+    close GRADE_ITEM;
+}
+
+for my $item (sort keys %$grade_year) {
+    open GRADE_ITEM, ">./item/$item.csv" or die $!;
+    for my $country (sort keys %{$grade_year->{$item}}) {
+        for my $year (sort keys %{$grade_year->{$item}->{$country}}) {
+            print GRADE_ITEM "$country, $year, $grade_year->{$item}->{$country}->{$year}\n";
             #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
         }
     }
