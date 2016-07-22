@@ -73,8 +73,8 @@ close FILE;
 
 open GRADE, ">nation_grade.csv";
 open GOLD, ">nation_gold.csv";
-for my $item (keys %$grade) {
-    for my $country (keys %{$grade->{$item}}) {
+for my $item (sort keys %$grade) {
+    for my $country (sort keys %{$grade->{$item}}) {
         print GRADE "$item, $country, $grade->{$item}->{$country}\n";
         print GOLD "$item, $country, $gold->{$item}->{$country}\n" if ($gold->{$item}->{$country});
         #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
@@ -82,8 +82,8 @@ for my $item (keys %$grade) {
 }
 open GRADE_CONTINENT, ">continent_grade.csv";
 open GOLD_CONTINENT, ">continent_gold.csv";
-for my $item (keys %$grade_continent) {
-    for my $continent (keys %{$grade_continent->{$item}}) {
+for my $item (sort keys %$grade_continent) {
+    for my $continent (sort keys %{$grade_continent->{$item}}) {
         print GRADE_CONTINENT "$item, $continent, $grade_continent->{$item}->{$continent}\n";
         print GOLD_CONTINENT "$item, $continent, $gold_continent->{$item}->{$continent}\n" if ($gold_continent->{$item}->{$continent});
         #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
@@ -92,9 +92,9 @@ for my $item (keys %$grade_continent) {
 
 open GRADE_YEAR, ">year_grade.csv";
 open GOLD_YEAR, ">year_gold.csv";
-for my $item (keys %$grade_year) {
-    for my $year (keys %{$grade_year->{$item}}) {
-        for my $country (keys %{$grade_year->{$item}->{$year}}) {
+for my $item (sort keys %$grade_year) {
+    for my $year (sort keys %{$grade_year->{$item}}) {
+        for my $country (sort keys %{$grade_year->{$item}->{$year}}) {
             print GRADE_YEAR "$item, $year, $country, $grade_year->{$item}->{$year}->{$country}\n";
             print GOLD_YEAR "$item, $year, $country, $gold_year->{$item}->{$year}->{$country}\n" if ($gold_year->{$item}->{$year}->{$country});
             #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
