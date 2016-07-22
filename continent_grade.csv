@@ -43,15 +43,6 @@ equestrian, Europe, 633
 equestrian, North America, 115
 equestrian, Oceania, 44
 equestrian, South America, 11
-freestyle_wrestling, Asia, 110
-freestyle_wrestling, Europe, 49
-freestyle_wrestling, North America, 61
-freestyle_wrestling, South America, 2
-greco-roman_wrestling, , 2
-greco-roman_wrestling, Africa, 12
-greco-roman_wrestling, Asia, 326
-greco-roman_wrestling, Europe, 731
-greco-roman_wrestling, North America, 54
 gymnastics, Asia, 136
 gymnastics, Europe, 132
 gymnastics, North America, 42
@@ -100,3 +91,9 @@ weightlifting, , 1
 weightlifting, Asia, 90
 weightlifting, Europe, 25
 weightlifting, North America, 16
+wrestling, , 2
+wrestling, Africa, 12
+wrestling, Asia, 436
+wrestling, Europe, 780
+wrestling, North America, 115
+wrestling, South America, 2
