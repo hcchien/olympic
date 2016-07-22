@@ -57,19 +57,51 @@ for my $current (glob("all.csv")) {
         my $point;
         if ($r[4] == 1) { 
             $point = 3;  
-            print "$r[6]\n";
             $gold->{$r[0]}->{$r[6]}++;
             $gold_continent->{$r[0]}->{$r[8]}++;
             $gold_year->{$r[0]}->{$r[6]}->{$year}++;
         } elsif ($r[4] == 3) { $point = 1 } else { $point = 2 }
         $grade->{$r[0]}->{$r[6]} += $point;
         $grade_continent->{$r[0]}->{$r[8]} += $point;
-        $grade_year->{$r[0]}->{$r[6]}->{$year} += $point;
+        $grade_year->{$r[0]}->{$year}->{$r[6]} += $point;
         my $new = join(',', @r) . "\n" unless ($r[3] =~ /2016/);
         print FILE "$new";
     }
 }
 close FILE;
+  
+my $all_country;
+my @all_year;
+for my $item (keys %$grade_year) {
+    @all_year = sort keys $grade_year->{$item};
+    for my $y (@all_year) {
+        for my $c (sort keys $grade_year->{$item}->{$y}) {
+            unless (exists $all_country->{$item}->{$c}) {
+                $all_country->{$item}->{$c} = 1;
+            }
+        }
+    }
+}
+
+for my $item (keys %$grade_year) {
+    open GRADE_ITEM, ">./item/$item.csv" or die $!;
+    my $head = join ",", keys $all_country->{$item};
+    print GRADE_ITEM ",$head\n";
+    for my $year (@all_year) {
+        my @yearly;
+        push @yearly, $year;
+        for my $country (sort keys %{$all_country->{$item}}) {
+            if (exists $grade_year->{$item}->{$year}->{$country}) {
+                push @yearly, $grade_year->{$item}->{$year}->{$country} ;
+            } else {
+                push @yearly, 0;
+            }
+        }
+        print GRADE_ITEM join ",", @yearly;
+        print GRADE_ITEM "\n";
+    }
+}
+
 
 open GRADE, ">nation_grade.csv";
 open GOLD, ">nation_gold.csv";
@@ -98,20 +130,10 @@ for my $item (sort keys %$grade_year) {
         for my $country (sort keys %{$grade_year->{$item}->{$year}}) {
             print GRADE_YEAR "$item, $year, $country, $grade_year->{$item}->{$year}->{$country}\n";
             print GRADE_ITEM "$country, $year, $grade_year->{$item}->{$year}->{$country}\n";
-            print GOLD_YEAR "$item, $year, $country, $gold_year->{$item}->{$year}->{$country}\n" if ($gold_year->{$item}->{$year}->{$country});
+            # print GOLD_YEAR "$item, $year, $country, $gold_year->{$item}->{$year}->{$country}\n" if ($gold_year->{$item}->{$year}->{$country});
             #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
         }
     }
     close GRADE_ITEM;
 }
 
-for my $item (sort keys %$grade_year) {
-    open GRADE_ITEM, ">./item/$item.csv" or die $!;
-    for my $country (sort keys %{$grade_year->{$item}}) {
-        for my $year (sort keys %{$grade_year->{$item}->{$country}}) {
-            print GRADE_ITEM "$country, $year, $grade_year->{$item}->{$country}->{$year}\n";
-            #print "gold: ".$item.":".$country."-".$gold->{$item}->{$country}."\n";
-        }
-    }
-    close GRADE_ITEM;
-}
