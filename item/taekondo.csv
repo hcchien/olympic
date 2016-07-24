@@ -1,25 +1,420 @@
-,Great Britain,Japan,Gabon,Dominican Republic,Italy,Spain,Argentina,United States,Cuba,Iran,Germany,Serbia,Thailand,France,Chinese Taipei,Vietnam,Turkey,South Korea,Australia,Colombia,Norway,Russia,Venezuela,Canada,Nigeria,Afghanistan,Egypt,China,Mexico,Greece
-1904,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1932,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1948,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1956,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1968,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1980,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2000,0,0,5,1,3,2,0,5,0,0,1,0,2,0,3,1,0,1,1,0,2,2,0,11,2,0,1,3,0,2
-2004,0,0,0,0,6,8,0,2,0,1,3,0,0,0,4,4,0,0,3,0,0,0,0,8,0,1,2,5,1,0
-2008,1,0,0,2,4,0,0,1,2,0,1,0,0,1,2,3,2,0,6,1,2,0,0,12,0,2,3,3,0,0
-2012,0,3,0,0,5,0,1,1,0,0,3,2,0,4,0,2,3,0,0,0,0,1,3,5,7,1,5,2,0,0
+1896,Afghanistan,0
+1896,Argentina,0
+1896,Australia,0
+1896,Canada,0
+1896,China,0
+1896,Chinese Taipei,0
+1896,Colombia,0
+1896,Cuba,0
+1896,Dominican Republic,0
+1896,Egypt,0
+1896,France,0
+1896,Gabon,0
+1896,Germany,0
+1896,Great Britain,0
+1896,Greece,0
+1896,Iran,0
+1896,Italy,0
+1896,Japan,0
+1896,Mexico,0
+1896,Nigeria,0
+1896,Norway,0
+1896,Russia,0
+1896,Serbia,0
+1896,South Korea,0
+1896,Spain,0
+1896,Thailand,0
+1896,Turkey,0
+1896,United States,0
+1896,Venezuela,0
+1896,Vietnam,0
+1900,Afghanistan,0
+1900,Argentina,0
+1900,Australia,0
+1900,Canada,0
+1900,China,0
+1900,Chinese Taipei,0
+1900,Colombia,0
+1900,Cuba,0
+1900,Dominican Republic,0
+1900,Egypt,0
+1900,France,0
+1900,Gabon,0
+1900,Germany,0
+1900,Great Britain,0
+1900,Greece,0
+1900,Iran,0
+1900,Italy,0
+1900,Japan,0
+1900,Mexico,0
+1900,Nigeria,0
+1900,Norway,0
+1900,Russia,0
+1900,Serbia,0
+1900,South Korea,0
+1900,Spain,0
+1900,Thailand,0
+1900,Turkey,0
+1900,United States,0
+1900,Venezuela,0
+1900,Vietnam,0
+1904,Afghanistan,0
+1904,Argentina,0
+1904,Australia,0
+1904,Canada,0
+1904,China,0
+1904,Chinese Taipei,0
+1904,Colombia,0
+1904,Cuba,0
+1904,Dominican Republic,0
+1904,Egypt,0
+1904,France,0
+1904,Gabon,0
+1904,Germany,0
+1904,Great Britain,0
+1904,Greece,0
+1904,Iran,0
+1904,Italy,0
+1904,Japan,0
+1904,Mexico,0
+1904,Nigeria,0
+1904,Norway,0
+1904,Russia,0
+1904,Serbia,0
+1904,South Korea,0
+1904,Spain,0
+1904,Thailand,0
+1904,Turkey,0
+1904,United States,0
+1904,Venezuela,0
+1904,Vietnam,0
+1908,Afghanistan,0
+1908,Argentina,0
+1908,Australia,0
+1908,Canada,0
+1908,China,0
+1908,Chinese Taipei,0
+1908,Colombia,0
+1908,Cuba,0
+1908,Dominican Republic,0
+1908,Egypt,0
+1908,France,0
+1908,Gabon,0
+1908,Germany,0
+1908,Great Britain,0
+1908,Greece,0
+1908,Iran,0
+1908,Italy,0
+1908,Japan,0
+1908,Mexico,0
+1908,Nigeria,0
+1908,Norway,0
+1908,Russia,0
+1908,Serbia,0
+1908,South Korea,0
+1908,Spain,0
+1908,Thailand,0
+1908,Turkey,0
+1908,United States,0
+1908,Venezuela,0
+1908,Vietnam,0
+1912,Afghanistan,0
+1912,Argentina,0
+1912,Australia,0
+1912,Canada,0
+1912,China,0
+1912,Chinese Taipei,0
+1912,Colombia,0
+1912,Cuba,0
+1912,Dominican Republic,0
+1912,Egypt,0
+1912,France,0
+1912,Gabon,0
+1912,Germany,0
+1912,Great Britain,0
+1912,Greece,0
+1912,Iran,0
+1912,Italy,0
+1912,Japan,0
+1912,Mexico,0
+1912,Nigeria,0
+1912,Norway,0
+1912,Russia,0
+1912,Serbia,0
+1912,South Korea,0
+1912,Spain,0
+1912,Thailand,0
+1912,Turkey,0
+1912,United States,0
+1912,Venezuela,0
+1912,Vietnam,0
+1920,Afghanistan,0
+1920,Argentina,0
+1920,Australia,0
+1920,Canada,0
+1920,China,0
+1920,Chinese Taipei,0
+1920,Colombia,0
+1920,Cuba,0
+1920,Dominican Republic,0
+1920,Egypt,0
+1920,France,0
+1920,Gabon,0
+1920,Germany,0
+1920,Great Britain,0
+1920,Greece,0
+1920,Iran,0
+1920,Italy,0
+1920,Japan,0
+1920,Mexico,0
+1920,Nigeria,0
+1920,Norway,0
+1920,Russia,0
+1920,Serbia,0
+1920,South Korea,0
+1920,Spain,0
+1920,Thailand,0
+1920,Turkey,0
+1920,United States,0
+1920,Venezuela,0
+1920,Vietnam,0
+1924,Afghanistan,0
+1924,Argentina,0
+1924,Australia,0
+1924,Canada,0
+1924,China,0
+1924,Chinese Taipei,0
+1924,Colombia,0
+1924,Cuba,0
+1924,Dominican Republic,0
+1924,Egypt,0
+1924,France,0
+1924,Gabon,0
+1924,Germany,0
+1924,Great Britain,0
+1924,Greece,0
+1924,Iran,0
+1924,Italy,0
+1924,Japan,0
+1924,Mexico,0
+1924,Nigeria,0
+1924,Norway,0
+1924,Russia,0
+1924,Serbia,0
+1924,South Korea,0
+1924,Spain,0
+1924,Thailand,0
+1924,Turkey,0
+1924,United States,0
+1924,Venezuela,0
+1924,Vietnam,0
+1988,Afghanistan,0
+1988,Argentina,0
+1988,Australia,0
+1988,Canada,0
+1988,China,0
+1988,Chinese Taipei,0
+1988,Colombia,0
+1988,Cuba,0
+1988,Dominican Republic,0
+1988,Egypt,0
+1988,France,0
+1988,Gabon,0
+1988,Germany,0
+1988,Great Britain,0
+1988,Greece,0
+1988,Iran,0
+1988,Italy,0
+1988,Japan,0
+1988,Mexico,0
+1988,Nigeria,0
+1988,Norway,0
+1988,Russia,0
+1988,Serbia,0
+1988,South Korea,0
+1988,Spain,0
+1988,Thailand,0
+1988,Turkey,0
+1988,United States,0
+1988,Venezuela,0
+1988,Vietnam,0
+1992,Afghanistan,0
+1992,Argentina,0
+1992,Australia,0
+1992,Canada,0
+1992,China,0
+1992,Chinese Taipei,0
+1992,Colombia,0
+1992,Cuba,0
+1992,Dominican Republic,0
+1992,Egypt,0
+1992,France,0
+1992,Gabon,0
+1992,Germany,0
+1992,Great Britain,0
+1992,Greece,0
+1992,Iran,0
+1992,Italy,0
+1992,Japan,0
+1992,Mexico,0
+1992,Nigeria,0
+1992,Norway,0
+1992,Russia,0
+1992,Serbia,0
+1992,South Korea,0
+1992,Spain,0
+1992,Thailand,0
+1992,Turkey,0
+1992,United States,0
+1992,Venezuela,0
+1992,Vietnam,0
+1996,Afghanistan,0
+1996,Argentina,0
+1996,Australia,0
+1996,Canada,0
+1996,China,0
+1996,Chinese Taipei,0
+1996,Colombia,0
+1996,Cuba,0
+1996,Dominican Republic,0
+1996,Egypt,0
+1996,France,0
+1996,Gabon,0
+1996,Germany,0
+1996,Great Britain,0
+1996,Greece,0
+1996,Iran,0
+1996,Italy,0
+1996,Japan,0
+1996,Mexico,0
+1996,Nigeria,0
+1996,Norway,0
+1996,Russia,0
+1996,Serbia,0
+1996,South Korea,0
+1996,Spain,0
+1996,Thailand,0
+1996,Turkey,0
+1996,United States,0
+1996,Venezuela,0
+1996,Vietnam,0
+2000,Afghanistan,0
+2000,Argentina,0
+2000,Australia,5
+2000,Canada,1
+2000,China,3
+2000,Chinese Taipei,2
+2000,Colombia,0
+2000,Cuba,5
+2000,Dominican Republic,0
+2000,Egypt,0
+2000,France,1
+2000,Gabon,0
+2000,Germany,2
+2000,Great Britain,0
+2000,Greece,3
+2000,Iran,1
+2000,Italy,0
+2000,Japan,1
+2000,Mexico,1
+2000,Nigeria,0
+2000,Norway,2
+2000,Russia,2
+2000,Serbia,0
+2000,South Korea,11
+2000,Spain,2
+2000,Thailand,0
+2000,Turkey,1
+2000,United States,3
+2000,Venezuela,0
+2000,Vietnam,2
+2004,Afghanistan,0
+2004,Argentina,0
+2004,Australia,0
+2004,Canada,0
+2004,China,6
+2004,Chinese Taipei,8
+2004,Colombia,0
+2004,Cuba,2
+2004,Dominican Republic,0
+2004,Egypt,1
+2004,France,3
+2004,Gabon,0
+2004,Germany,0
+2004,Great Britain,0
+2004,Greece,4
+2004,Iran,4
+2004,Italy,0
+2004,Japan,0
+2004,Mexico,3
+2004,Nigeria,0
+2004,Norway,0
+2004,Russia,0
+2004,Serbia,0
+2004,South Korea,8
+2004,Spain,0
+2004,Thailand,1
+2004,Turkey,2
+2004,United States,5
+2004,Venezuela,1
+2004,Vietnam,0
+2008,Afghanistan,1
+2008,Argentina,0
+2008,Australia,0
+2008,Canada,2
+2008,China,4
+2008,Chinese Taipei,0
+2008,Colombia,0
+2008,Cuba,1
+2008,Dominican Republic,2
+2008,Egypt,0
+2008,France,1
+2008,Gabon,0
+2008,Germany,0
+2008,Great Britain,1
+2008,Greece,2
+2008,Iran,3
+2008,Italy,2
+2008,Japan,0
+2008,Mexico,6
+2008,Nigeria,1
+2008,Norway,2
+2008,Russia,0
+2008,Serbia,0
+2008,South Korea,12
+2008,Spain,0
+2008,Thailand,2
+2008,Turkey,3
+2008,United States,3
+2008,Venezuela,0
+2008,Vietnam,0
+2012,Afghanistan,0
+2012,Argentina,3
+2012,Australia,0
+2012,Canada,0
+2012,China,5
+2012,Chinese Taipei,0
+2012,Colombia,1
+2012,Cuba,1
+2012,Dominican Republic,0
+2012,Egypt,0
+2012,France,3
+2012,Gabon,2
+2012,Germany,0
+2012,Great Britain,4
+2012,Greece,0
+2012,Iran,2
+2012,Italy,3
+2012,Japan,0
+2012,Mexico,0
+2012,Nigeria,0
+2012,Norway,0
+2012,Russia,1
+2012,Serbia,3
+2012,South Korea,5
+2012,Spain,7
+2012,Thailand,1
+2012,Turkey,5
+2012,United States,2
+2012,Venezuela,0
+2012,Vietnam,0

@@ -1,25 +1,1358 @@
-,Tanzania,West Germany,United States,Djibouti,Yugoslavia,Ireland,Dominican Republic,Ukraine,Austria,Ceylon,Greece,Panama,China,Botswana,Trinidad and Tobago,Colombia,Haiti,Australia,Qatar,Philippines,Namibia,Jamaica,Cuba,Spain,Grenada,Czechoslovakia,East Germany,Guatemala,Italy,Bahamas,Ivory Coast (Côte d'Ivoire),Kazakhstan,Canada,Bohemia,Burundi,Saudi Arabia,Luxembourg,Denmark,Switzerland,Algeria,Bulgaria,Uganda,Belgium,Sr.,Argentina,Mozambique,Iran,Cameroon,Great Britain,Lithuania,Japan,Sri Lanka,Brazil,Slovenia,Portugal,Sudan,Ethiopia,Venezuela,Zambia,Senegal,India,Taiwan,Belarus,Tunisia,South Africa,France,Czech Republic,Turkey,Romania,Poland,Germany,Brunei,Sweden,Chile,Estonia,Latvia,Syria,Hungary,Iceland,United Team of Germany,Unified Team,Croatia,Morocco,Soviet Union,Nigeria,Mexico,Barbados,Netherlands,New Zealand,Puerto Rico,Norway,Russia,South Korea,Ecuador,Kenya,Finland,British West Indies
-1904,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0
-1912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,4,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0
-1920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,24,3,0,15,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0
-1924,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,24,2,0,13,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
-1928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,24,6,9,10,0,0,0,2,2,0,0,0,3,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0
-1932,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,18,1,5,14,0,0,0,0,0,0,0,0,6,4,0,0,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0
-1936,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,26,13,0,0,0,0,3,0,0,0,0,4,0,0,13,0,0,1,0,0,0,0,0,0,2,3,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0
-1948,0,5,10,4,0,0,0,4,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,7,11,0,9,0,0,0,0,7,0,0,0,0,9,0,7,0,0,0,0,0,0,0,0,0,0,11,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,2,0,0,0,0,0,1,0,0,0,50,0,0,0,2,0
-1952,0,2,7,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,1,2,9,6,0,0,0,0,6,0,0,0,0,5,0,9,0,0,0,0,0,3,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,23,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,66,0,1,0,0,0
-1956,0,0,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,3,3,0,12,1,0,0,0,2,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,67,9,0,0,2,0
-1960,0,0,7,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,3,1,3,2,8,0,0,0,0,4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0,13,0,0,0,4,0,0,0,0,1,0,40,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,55,15,0,0,0,0
-1964,0,0,7,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,4,0,0,0,0,0,0,3,3,2,0,25,0,0,0,0,7,0,0,0,0,4,0,0,1,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,12,0,0,0,7,0,0,0,0,0,0,30,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,50,16,0,0,0,0
-1968,0,0,8,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,13,0,0,3,2,3,0,8,0,0,0,0,12,0,0,0,0,2,0,2,2,0,13,0,0,0,2,0,0,0,1,1,0,0,0,0,4,0,0,0,10,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,58,0,0,13,0,0
-1972,0,0,4,1,0,0,0,2,0,0,1,0,0,6,0,0,0,0,0,0,0,0,2,0,4,0,0,0,43,0,0,1,7,2,0,5,0,0,0,0,0,0,0,0,0,2,0,1,0,0,9,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,4,0,0,0,0,0,0,40,0,0,0,0,1,0,0,0,0,0,2,0,3,0,0,39,0,0,25,0,0
-1976,0,0,0,0,0,0,0,5,0,0,1,0,0,8,0,0,2,0,0,0,0,0,8,0,1,0,0,0,54,0,0,0,7,3,0,0,0,0,0,0,3,0,0,0,0,2,0,5,0,0,0,0,0,0,3,0,0,0,0,5,0,0,0,0,11,0,0,0,1,0,0,0,0,0,0,29,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,36,0,0,14,0,0
-1980,0,0,2,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,8,0,4,0,0,0,57,0,0,4,1,0,0,20,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,77,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
-1984,0,0,6,0,0,0,0,0,0,0,3,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9,6,0,25,0,0,0,0,0,0,0,0,2,11,2,2,0,0,3,0,0,0,8,6,0,0,3,0,0,2,0,0,0,5,0,0,19,0,0,0,0,0,0,0,1,2,0,0,5,2,0,0,0,0,0,0,0,0,0,78,0,0,21,0,0
-1988,0,0,5,0,0,0,0,0,0,0,3,0,0,9,0,0,1,0,0,1,0,0,0,0,5,0,1,0,50,0,0,0,4,0,0,10,0,0,0,0,0,0,0,0,0,4,0,2,0,0,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,5,0,0,2,0,0,0,45,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,56,0,0,4,0,0
-1992,3,0,1,0,1,0,0,0,0,0,0,0,0,3,0,0,6,0,0,3,1,0,9,0,6,0,0,0,0,0,0,1,2,3,19,9,3,0,0,0,0,0,0,0,0,1,0,7,4,0,14,0,3,0,2,2,0,4,3,1,1,0,0,0,0,0,0,1,2,0,0,0,0,0,3,0,9,3,0,0,2,0,0,0,0,0,0,0,0,0,44,52,0,0,0,0,0
-1996,3,0,4,1,2,0,6,0,0,0,0,0,0,3,3,0,3,0,0,5,0,0,3,5,0,0,0,0,0,3,0,3,4,10,14,8,2,0,0,0,3,0,0,0,0,4,0,10,1,0,12,0,0,0,1,1,1,4,0,0,7,4,0,0,5,0,0,0,2,19,0,0,2,5,2,0,3,0,0,0,3,0,3,0,0,2,0,0,1,6,0,49,0,0,0,0,2
-2000,7,0,7,2,6,1,9,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,11,5,0,2,0,0,0,0,3,8,3,0,10,12,10,0,0,0,0,1,0,0,2,4,0,12,3,3,12,2,3,0,3,5,3,0,0,0,2,5,0,0,12,0,0,0,8,23,2,0,0,4,0,0,1,0,2,0,1,0,0,0,0,3,0,0,0,2,0,31,0,0,0,0,0
-2004,0,0,2,0,4,0,3,0,0,0,1,0,0,0,0,3,0,0,0,3,0,0,10,5,0,3,0,3,0,0,1,6,0,2,4,7,11,0,0,0,2,0,0,0,0,7,0,10,6,1,13,2,5,0,2,8,0,0,0,0,0,3,0,0,4,3,0,0,5,38,0,0,1,4,0,0,4,0,0,0,9,0,0,0,0,0,0,2,0,4,0,49,0,0,0,0,0
-2008,0,0,8,0,1,0,11,5,0,0,3,0,0,0,0,3,2,0,0,2,0,2,9,3,0,0,0,0,0,2,3,8,1,3,1,8,1,0,0,0,0,0,0,0,0,4,0,21,0,0,29,2,1,0,0,3,0,0,0,5,2,5,3,0,5,3,0,0,3,34,0,0,3,2,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,8,0,42,0,0,0,0,0
-2012,3,0,8,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,10,2,3,4,4,0,0,0,5,0,0,1,10,1,5,14,11,0,3,2,0,3,0,0,2,1,1,0,21,1,3,16,0,0,0,0,1,0,0,0,3,0,0,0,0,5,0,1,1,0,34,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,4,2,3,3,4,0,54,0,0,0,0,0
+1896,Algeria,0
+1896,Argentina,0
+1896,Australia,6
+1896,Austria,0
+1896,Bahamas,0
+1896,Barbados,0
+1896,Belarus,0
+1896,Belgium,0
+1896,Bohemia,0
+1896,Botswana,0
+1896,Brazil,0
+1896,British West Indies,0
+1896,Brunei,0
+1896,Bulgaria,0
+1896,Burundi,0
+1896,Cameroon,0
+1896,Canada,0
+1896,Ceylon,0
+1896,Chile,0
+1896,China,0
+1896,Colombia,0
+1896,Croatia,0
+1896,Cuba,0
+1896,Czech Republic,0
+1896,Czechoslovakia,0
+1896,Denmark,0
+1896,Djibouti,0
+1896,Dominican Republic,0
+1896,East Germany,0
+1896,Ecuador,0
+1896,Estonia,0
+1896,Ethiopia,0
+1896,Finland,0
+1896,France,3
+1896,Germany,2
+1896,Great Britain,3
+1896,Greece,14
+1896,Grenada,0
+1896,Guatemala,0
+1896,Haiti,0
+1896,Hungary,3
+1896,Iceland,0
+1896,India,0
+1896,Iran,0
+1896,Ireland,0
+1896,Italy,0
+1896,Ivory Coast (Côte d'Ivoire),0
+1896,Jamaica,0
+1896,Japan,0
+1896,Kazakhstan,0
+1896,Kenya,0
+1896,Latvia,0
+1896,Lithuania,0
+1896,Luxembourg,0
+1896,Mexico,0
+1896,Morocco,0
+1896,Mozambique,0
+1896,Namibia,0
+1896,Netherlands,0
+1896,New Zealand,0
+1896,Nigeria,0
+1896,Norway,0
+1896,Panama,0
+1896,Philippines,0
+1896,Poland,0
+1896,Portugal,0
+1896,Puerto Rico,0
+1896,Qatar,0
+1896,Romania,0
+1896,Russia,0
+1896,Saudi Arabia,0
+1896,Senegal,0
+1896,Slovenia,0
+1896,South Africa,0
+1896,South Korea,0
+1896,Soviet Union,0
+1896,Spain,0
+1896,Sr.,0
+1896,Sri Lanka,0
+1896,Sudan,0
+1896,Sweden,0
+1896,Switzerland,0
+1896,Syria,0
+1896,Taiwan,0
+1896,Tanzania,0
+1896,Trinidad and Tobago,0
+1896,Tunisia,0
+1896,Turkey,0
+1896,Uganda,0
+1896,Ukraine,0
+1896,Unified Team,0
+1896,United States,39
+1896,United Team of Germany,0
+1896,Venezuela,0
+1896,West Germany,0
+1896,Yugoslavia,0
+1896,Zambia,0
+1900,Algeria,0
+1900,Argentina,0
+1900,Australia,2
+1900,Austria,0
+1900,Bahamas,0
+1900,Barbados,0
+1900,Belarus,0
+1900,Belgium,0
+1900,Bohemia,2
+1900,Botswana,0
+1900,Brazil,0
+1900,British West Indies,0
+1900,Brunei,0
+1900,Bulgaria,0
+1900,Burundi,0
+1900,Cameroon,0
+1900,Canada,1
+1900,Ceylon,0
+1900,Chile,0
+1900,China,0
+1900,Colombia,0
+1900,Croatia,0
+1900,Cuba,0
+1900,Czech Republic,0
+1900,Czechoslovakia,0
+1900,Denmark,1
+1900,Djibouti,0
+1900,Dominican Republic,0
+1900,East Germany,0
+1900,Ecuador,0
+1900,Estonia,0
+1900,Ethiopia,0
+1900,Finland,0
+1900,France,9
+1900,Germany,0
+1900,Great Britain,9
+1900,Greece,0
+1900,Grenada,0
+1900,Guatemala,0
+1900,Haiti,0
+1900,Hungary,4
+1900,Iceland,0
+1900,India,2
+1900,Iran,0
+1900,Ireland,0
+1900,Italy,0
+1900,Ivory Coast (Côte d'Ivoire),0
+1900,Jamaica,0
+1900,Japan,0
+1900,Kazakhstan,0
+1900,Kenya,0
+1900,Latvia,0
+1900,Lithuania,0
+1900,Luxembourg,0
+1900,Mexico,0
+1900,Morocco,0
+1900,Mozambique,0
+1900,Namibia,0
+1900,Netherlands,0
+1900,New Zealand,0
+1900,Nigeria,0
+1900,Norway,1
+1900,Panama,0
+1900,Philippines,0
+1900,Poland,0
+1900,Portugal,0
+1900,Puerto Rico,0
+1900,Qatar,0
+1900,Romania,0
+1900,Russia,0
+1900,Saudi Arabia,0
+1900,Senegal,0
+1900,Slovenia,0
+1900,South Africa,0
+1900,South Korea,0
+1900,Soviet Union,0
+1900,Spain,0
+1900,Sr.,0
+1900,Sri Lanka,0
+1900,Sudan,0
+1900,Sweden,1
+1900,Switzerland,0
+1900,Syria,0
+1900,Taiwan,0
+1900,Tanzania,0
+1900,Trinidad and Tobago,0
+1900,Tunisia,0
+1900,Turkey,0
+1900,Uganda,0
+1900,Ukraine,0
+1900,Unified Team,0
+1900,United States,58
+1900,United Team of Germany,0
+1900,Venezuela,0
+1900,West Germany,0
+1900,Yugoslavia,0
+1900,Zambia,0
+1904,Algeria,0
+1904,Argentina,0
+1904,Australia,0
+1904,Austria,0
+1904,Bahamas,0
+1904,Barbados,0
+1904,Belarus,0
+1904,Belgium,0
+1904,Bohemia,0
+1904,Botswana,0
+1904,Brazil,0
+1904,British West Indies,0
+1904,Brunei,0
+1904,Bulgaria,0
+1904,Burundi,0
+1904,Cameroon,0
+1904,Canada,0
+1904,Ceylon,0
+1904,Chile,0
+1904,China,0
+1904,Colombia,0
+1904,Croatia,0
+1904,Cuba,0
+1904,Czech Republic,0
+1904,Czechoslovakia,0
+1904,Denmark,0
+1904,Djibouti,0
+1904,Dominican Republic,0
+1904,East Germany,0
+1904,Ecuador,0
+1904,Estonia,0
+1904,Ethiopia,0
+1904,Finland,0
+1904,France,0
+1904,Germany,1
+1904,Great Britain,0
+1904,Greece,1
+1904,Grenada,0
+1904,Guatemala,0
+1904,Haiti,0
+1904,Hungary,0
+1904,Iceland,0
+1904,India,0
+1904,Iran,0
+1904,Ireland,0
+1904,Italy,0
+1904,Ivory Coast (Côte d'Ivoire),0
+1904,Jamaica,0
+1904,Japan,0
+1904,Kazakhstan,0
+1904,Kenya,0
+1904,Latvia,0
+1904,Lithuania,0
+1904,Luxembourg,0
+1904,Mexico,0
+1904,Morocco,0
+1904,Mozambique,0
+1904,Namibia,0
+1904,Netherlands,0
+1904,New Zealand,0
+1904,Nigeria,0
+1904,Norway,0
+1904,Panama,0
+1904,Philippines,0
+1904,Poland,0
+1904,Portugal,0
+1904,Puerto Rico,0
+1904,Qatar,0
+1904,Romania,0
+1904,Russia,0
+1904,Saudi Arabia,0
+1904,Senegal,0
+1904,Slovenia,0
+1904,South Africa,0
+1904,South Korea,0
+1904,Soviet Union,0
+1904,Spain,0
+1904,Sr.,0
+1904,Sri Lanka,0
+1904,Sudan,0
+1904,Sweden,0
+1904,Switzerland,0
+1904,Syria,0
+1904,Taiwan,0
+1904,Tanzania,0
+1904,Trinidad and Tobago,0
+1904,Tunisia,0
+1904,Turkey,0
+1904,Uganda,0
+1904,Ukraine,0
+1904,Unified Team,0
+1904,United States,88
+1904,United Team of Germany,0
+1904,Venezuela,0
+1904,West Germany,0
+1904,Yugoslavia,0
+1904,Zambia,0
+1908,Algeria,0
+1908,Argentina,0
+1908,Australia,0
+1908,Austria,0
+1908,Bahamas,0
+1908,Barbados,0
+1908,Belarus,0
+1908,Belgium,0
+1908,Bohemia,0
+1908,Botswana,0
+1908,Brazil,0
+1908,British West Indies,0
+1908,Brunei,0
+1908,Bulgaria,0
+1908,Burundi,0
+1908,Cameroon,0
+1908,Canada,10
+1908,Ceylon,0
+1908,Chile,0
+1908,China,0
+1908,Colombia,0
+1908,Croatia,0
+1908,Cuba,0
+1908,Czech Republic,0
+1908,Czechoslovakia,0
+1908,Denmark,0
+1908,Djibouti,0
+1908,Dominican Republic,0
+1908,East Germany,0
+1908,Ecuador,0
+1908,Estonia,0
+1908,Ethiopia,0
+1908,Finland,0
+1908,France,2
+1908,Germany,1
+1908,Great Britain,12
+1908,Greece,0
+1908,Grenada,0
+1908,Guatemala,0
+1908,Haiti,0
+1908,Hungary,0
+1908,Iceland,0
+1908,India,0
+1908,Iran,0
+1908,Ireland,0
+1908,Italy,2
+1908,Ivory Coast (Côte d'Ivoire),0
+1908,Jamaica,0
+1908,Japan,0
+1908,Kazakhstan,0
+1908,Kenya,0
+1908,Latvia,0
+1908,Lithuania,0
+1908,Luxembourg,0
+1908,Mexico,0
+1908,Morocco,0
+1908,Mozambique,0
+1908,Namibia,0
+1908,Netherlands,0
+1908,New Zealand,0
+1908,Nigeria,0
+1908,Norway,3
+1908,Panama,0
+1908,Philippines,0
+1908,Poland,0
+1908,Portugal,0
+1908,Puerto Rico,0
+1908,Qatar,0
+1908,Romania,0
+1908,Russia,0
+1908,Saudi Arabia,0
+1908,Senegal,0
+1908,Slovenia,0
+1908,South Africa,5
+1908,South Korea,0
+1908,Soviet Union,0
+1908,Spain,0
+1908,Sr.,0
+1908,Sri Lanka,0
+1908,Sudan,0
+1908,Sweden,4
+1908,Switzerland,0
+1908,Syria,0
+1908,Taiwan,0
+1908,Tanzania,0
+1908,Trinidad and Tobago,0
+1908,Tunisia,0
+1908,Turkey,0
+1908,Uganda,0
+1908,Ukraine,0
+1908,Unified Team,0
+1908,United States,52
+1908,United Team of Germany,0
+1908,Venezuela,0
+1908,West Germany,0
+1908,Yugoslavia,0
+1908,Zambia,0
+1912,Algeria,0
+1912,Argentina,0
+1912,Australia,0
+1912,Austria,0
+1912,Bahamas,0
+1912,Barbados,0
+1912,Belarus,0
+1912,Belgium,0
+1912,Bohemia,0
+1912,Botswana,0
+1912,Brazil,0
+1912,British West Indies,0
+1912,Brunei,0
+1912,Bulgaria,0
+1912,Burundi,0
+1912,Cameroon,0
+1912,Canada,5
+1912,Ceylon,0
+1912,Chile,0
+1912,China,0
+1912,Colombia,0
+1912,Croatia,0
+1912,Cuba,0
+1912,Czech Republic,0
+1912,Czechoslovakia,0
+1912,Denmark,0
+1912,Djibouti,0
+1912,Dominican Republic,0
+1912,East Germany,0
+1912,Ecuador,0
+1912,Estonia,0
+1912,Ethiopia,0
+1912,Finland,8
+1912,France,2
+1912,Germany,4
+1912,Great Britain,5
+1912,Greece,0
+1912,Grenada,0
+1912,Guatemala,0
+1912,Haiti,0
+1912,Hungary,1
+1912,Iceland,0
+1912,India,0
+1912,Iran,0
+1912,Ireland,0
+1912,Italy,0
+1912,Ivory Coast (Côte d'Ivoire),0
+1912,Jamaica,0
+1912,Japan,0
+1912,Kazakhstan,0
+1912,Kenya,0
+1912,Latvia,0
+1912,Lithuania,0
+1912,Luxembourg,0
+1912,Mexico,0
+1912,Morocco,0
+1912,Mozambique,0
+1912,Namibia,0
+1912,Netherlands,0
+1912,New Zealand,0
+1912,Nigeria,0
+1912,Norway,0
+1912,Panama,0
+1912,Philippines,0
+1912,Poland,0
+1912,Portugal,0
+1912,Puerto Rico,0
+1912,Qatar,0
+1912,Romania,0
+1912,Russia,0
+1912,Saudi Arabia,0
+1912,Senegal,0
+1912,Slovenia,0
+1912,South Africa,5
+1912,South Korea,0
+1912,Soviet Union,0
+1912,Spain,0
+1912,Sr.,0
+1912,Sri Lanka,0
+1912,Sudan,0
+1912,Sweden,13
+1912,Switzerland,0
+1912,Syria,0
+1912,Taiwan,0
+1912,Tanzania,0
+1912,Trinidad and Tobago,0
+1912,Tunisia,0
+1912,Turkey,0
+1912,Uganda,0
+1912,Ukraine,0
+1912,Unified Team,0
+1912,United States,59
+1912,United Team of Germany,0
+1912,Venezuela,0
+1912,West Germany,0
+1912,Yugoslavia,0
+1912,Zambia,0
+1920,Algeria,0
+1920,Argentina,0
+1920,Australia,0
+1920,Austria,0
+1920,Bahamas,0
+1920,Barbados,0
+1920,Belarus,0
+1920,Belgium,0
+1920,Bohemia,0
+1920,Botswana,0
+1920,Brazil,0
+1920,British West Indies,0
+1920,Brunei,0
+1920,Bulgaria,0
+1920,Burundi,0
+1920,Cameroon,0
+1920,Canada,3
+1920,Ceylon,0
+1920,Chile,0
+1920,China,0
+1920,Colombia,0
+1920,Croatia,0
+1920,Cuba,0
+1920,Czech Republic,0
+1920,Czechoslovakia,0
+1920,Denmark,2
+1920,Djibouti,0
+1920,Dominican Republic,0
+1920,East Germany,0
+1920,Ecuador,0
+1920,Estonia,2
+1920,Ethiopia,0
+1920,Finland,24
+1920,France,3
+1920,Germany,0
+1920,Great Britain,15
+1920,Greece,0
+1920,Grenada,0
+1920,Guatemala,0
+1920,Haiti,0
+1920,Hungary,0
+1920,Iceland,0
+1920,India,0
+1920,Iran,0
+1920,Ireland,0
+1920,Italy,2
+1920,Ivory Coast (Côte d'Ivoire),0
+1920,Jamaica,0
+1920,Japan,0
+1920,Kazakhstan,0
+1920,Kenya,0
+1920,Latvia,0
+1920,Lithuania,0
+1920,Luxembourg,0
+1920,Mexico,0
+1920,Morocco,0
+1920,Mozambique,0
+1920,Namibia,0
+1920,Netherlands,0
+1920,New Zealand,0
+1920,Nigeria,0
+1920,Norway,3
+1920,Panama,0
+1920,Philippines,0
+1920,Poland,0
+1920,Portugal,0
+1920,Puerto Rico,0
+1920,Qatar,0
+1920,Romania,0
+1920,Russia,0
+1920,Saudi Arabia,0
+1920,Senegal,0
+1920,Slovenia,0
+1920,South Africa,4
+1920,South Korea,0
+1920,Soviet Union,0
+1920,Spain,0
+1920,Sr.,0
+1920,Sri Lanka,0
+1920,Sudan,0
+1920,Sweden,13
+1920,Switzerland,0
+1920,Syria,0
+1920,Taiwan,0
+1920,Tanzania,0
+1920,Trinidad and Tobago,0
+1920,Tunisia,0
+1920,Turkey,0
+1920,Uganda,0
+1920,Ukraine,0
+1920,Unified Team,0
+1920,United States,43
+1920,United Team of Germany,0
+1920,Venezuela,0
+1920,West Germany,0
+1920,Yugoslavia,0
+1920,Zambia,0
+1924,Algeria,0
+1924,Argentina,2
+1924,Australia,3
+1924,Austria,0
+1924,Bahamas,0
+1924,Barbados,0
+1924,Belarus,0
+1924,Belgium,0
+1924,Bohemia,0
+1924,Botswana,0
+1924,Brazil,0
+1924,British West Indies,0
+1924,Brunei,0
+1924,Bulgaria,0
+1924,Burundi,0
+1924,Cameroon,0
+1924,Canada,0
+1924,Ceylon,0
+1924,Chile,0
+1924,China,0
+1924,Colombia,0
+1924,Croatia,0
+1924,Cuba,0
+1924,Czech Republic,0
+1924,Czechoslovakia,0
+1924,Denmark,0
+1924,Djibouti,0
+1924,Dominican Republic,0
+1924,East Germany,0
+1924,Ecuador,0
+1924,Estonia,1
+1924,Ethiopia,0
+1924,Finland,24
+1924,France,2
+1924,Germany,0
+1924,Great Britain,13
+1924,Greece,0
+1924,Grenada,0
+1924,Guatemala,0
+1924,Haiti,0
+1924,Hungary,0
+1924,Iceland,0
+1924,India,0
+1924,Iran,0
+1924,Ireland,0
+1924,Italy,2
+1924,Ivory Coast (Côte d'Ivoire),0
+1924,Jamaica,0
+1924,Japan,0
+1924,Kazakhstan,0
+1924,Kenya,0
+1924,Latvia,0
+1924,Lithuania,0
+1924,Luxembourg,0
+1924,Mexico,0
+1924,Morocco,0
+1924,Mozambique,0
+1924,Namibia,0
+1924,Netherlands,0
+1924,New Zealand,1
+1924,Nigeria,0
+1924,Norway,1
+1924,Panama,0
+1924,Philippines,0
+1924,Poland,0
+1924,Portugal,0
+1924,Puerto Rico,0
+1924,Qatar,0
+1924,Romania,0
+1924,Russia,0
+1924,Saudi Arabia,0
+1924,Senegal,0
+1924,Slovenia,0
+1924,South Africa,2
+1924,South Korea,0
+1924,Soviet Union,0
+1924,Spain,0
+1924,Sr.,0
+1924,Sri Lanka,0
+1924,Sudan,0
+1924,Sweden,4
+1924,Switzerland,4
+1924,Syria,0
+1924,Taiwan,0
+1924,Tanzania,0
+1924,Trinidad and Tobago,0
+1924,Tunisia,0
+1924,Turkey,0
+1924,Uganda,0
+1924,Ukraine,0
+1924,Unified Team,0
+1924,United States,55
+1924,United Team of Germany,0
+1924,Venezuela,0
+1924,West Germany,0
+1924,Yugoslavia,0
+1924,Zambia,0
+1988,Algeria,0
+1988,Argentina,0
+1988,Australia,5
+1988,Austria,0
+1988,Bahamas,0
+1988,Barbados,0
+1988,Belarus,0
+1988,Belgium,0
+1988,Bohemia,0
+1988,Botswana,0
+1988,Brazil,3
+1988,British West Indies,0
+1988,Brunei,0
+1988,Bulgaria,9
+1988,Burundi,0
+1988,Cameroon,0
+1988,Canada,1
+1988,Ceylon,0
+1988,Chile,0
+1988,China,1
+1988,Colombia,0
+1988,Croatia,0
+1988,Cuba,0
+1988,Czech Republic,0
+1988,Czechoslovakia,5
+1988,Denmark,0
+1988,Djibouti,1
+1988,Dominican Republic,0
+1988,East Germany,50
+1988,Ecuador,0
+1988,Estonia,0
+1988,Ethiopia,0
+1988,Finland,4
+1988,France,0
+1988,Germany,0
+1988,Great Britain,10
+1988,Greece,0
+1988,Grenada,0
+1988,Guatemala,0
+1988,Haiti,0
+1988,Hungary,0
+1988,Iceland,0
+1988,India,0
+1988,Iran,0
+1988,Ireland,0
+1988,Italy,4
+1988,Ivory Coast (Côte d'Ivoire),0
+1988,Jamaica,2
+1988,Japan,0
+1988,Kazakhstan,0
+1988,Kenya,16
+1988,Latvia,0
+1988,Lithuania,0
+1988,Luxembourg,0
+1988,Mexico,0
+1988,Morocco,1
+1988,Mozambique,0
+1988,Namibia,0
+1988,Netherlands,0
+1988,New Zealand,0
+1988,Nigeria,0
+1988,Norway,0
+1988,Panama,0
+1988,Philippines,0
+1988,Poland,0
+1988,Portugal,3
+1988,Puerto Rico,0
+1988,Qatar,0
+1988,Romania,5
+1988,Russia,0
+1988,Saudi Arabia,0
+1988,Senegal,2
+1988,Slovenia,0
+1988,South Africa,0
+1988,South Korea,0
+1988,Soviet Union,45
+1988,Spain,0
+1988,Sr.,0
+1988,Sri Lanka,0
+1988,Sudan,0
+1988,Sweden,0
+1988,Switzerland,1
+1988,Syria,0
+1988,Taiwan,0
+1988,Tanzania,0
+1988,Trinidad and Tobago,0
+1988,Tunisia,0
+1988,Turkey,0
+1988,Uganda,0
+1988,Ukraine,0
+1988,Unified Team,0
+1988,United States,56
+1988,United Team of Germany,0
+1988,Venezuela,0
+1988,West Germany,4
+1988,Yugoslavia,0
+1988,Zambia,0
+1992,Algeria,3
+1992,Argentina,0
+1992,Australia,1
+1992,Austria,0
+1992,Bahamas,1
+1992,Barbados,0
+1992,Belarus,0
+1992,Belgium,0
+1992,Bohemia,0
+1992,Botswana,0
+1992,Brazil,0
+1992,British West Indies,0
+1992,Brunei,0
+1992,Bulgaria,3
+1992,Burundi,0
+1992,Cameroon,0
+1992,Canada,6
+1992,Ceylon,0
+1992,Chile,0
+1992,China,3
+1992,Colombia,1
+1992,Croatia,0
+1992,Cuba,9
+1992,Czech Republic,0
+1992,Czechoslovakia,6
+1992,Denmark,0
+1992,Djibouti,0
+1992,Dominican Republic,0
+1992,East Germany,0
+1992,Ecuador,0
+1992,Estonia,0
+1992,Ethiopia,1
+1992,Finland,2
+1992,France,3
+1992,Germany,19
+1992,Great Britain,9
+1992,Greece,3
+1992,Grenada,0
+1992,Guatemala,0
+1992,Haiti,0
+1992,Hungary,0
+1992,Iceland,0
+1992,India,0
+1992,Iran,0
+1992,Ireland,0
+1992,Italy,1
+1992,Ivory Coast (Côte d'Ivoire),0
+1992,Jamaica,7
+1992,Japan,4
+1992,Kazakhstan,0
+1992,Kenya,14
+1992,Latvia,0
+1992,Lithuania,3
+1992,Luxembourg,0
+1992,Mexico,2
+1992,Morocco,2
+1992,Mozambique,0
+1992,Namibia,4
+1992,Netherlands,3
+1992,New Zealand,1
+1992,Nigeria,1
+1992,Norway,0
+1992,Panama,0
+1992,Philippines,0
+1992,Poland,0
+1992,Portugal,0
+1992,Puerto Rico,0
+1992,Qatar,1
+1992,Romania,2
+1992,Russia,0
+1992,Saudi Arabia,0
+1992,Senegal,0
+1992,Slovenia,0
+1992,South Africa,0
+1992,South Korea,3
+1992,Soviet Union,0
+1992,Spain,9
+1992,Sr.,3
+1992,Sri Lanka,0
+1992,Sudan,0
+1992,Sweden,2
+1992,Switzerland,0
+1992,Syria,0
+1992,Taiwan,0
+1992,Tanzania,0
+1992,Trinidad and Tobago,0
+1992,Tunisia,0
+1992,Turkey,0
+1992,Uganda,0
+1992,Ukraine,0
+1992,Unified Team,44
+1992,United States,52
+1992,United Team of Germany,0
+1992,Venezuela,0
+1992,West Germany,0
+1992,Yugoslavia,0
+1992,Zambia,0
+1996,Algeria,3
+1996,Argentina,0
+1996,Australia,4
+1996,Austria,1
+1996,Bahamas,2
+1996,Barbados,0
+1996,Belarus,6
+1996,Belgium,0
+1996,Bohemia,0
+1996,Botswana,0
+1996,Brazil,0
+1996,British West Indies,0
+1996,Brunei,0
+1996,Bulgaria,3
+1996,Burundi,3
+1996,Cameroon,0
+1996,Canada,3
+1996,Ceylon,0
+1996,Chile,0
+1996,China,5
+1996,Colombia,0
+1996,Croatia,0
+1996,Cuba,3
+1996,Czech Republic,5
+1996,Czechoslovakia,0
+1996,Denmark,0
+1996,Djibouti,0
+1996,Dominican Republic,0
+1996,East Germany,0
+1996,Ecuador,3
+1996,Estonia,0
+1996,Ethiopia,3
+1996,Finland,4
+1996,France,10
+1996,Germany,14
+1996,Great Britain,8
+1996,Greece,2
+1996,Grenada,0
+1996,Guatemala,0
+1996,Haiti,0
+1996,Hungary,3
+1996,Iceland,0
+1996,India,0
+1996,Iran,0
+1996,Ireland,0
+1996,Italy,4
+1996,Ivory Coast (Côte d'Ivoire),0
+1996,Jamaica,10
+1996,Japan,1
+1996,Kazakhstan,0
+1996,Kenya,12
+1996,Latvia,0
+1996,Lithuania,0
+1996,Luxembourg,0
+1996,Mexico,1
+1996,Morocco,1
+1996,Mozambique,1
+1996,Namibia,4
+1996,Netherlands,0
+1996,New Zealand,0
+1996,Nigeria,7
+1996,Norway,4
+1996,Panama,0
+1996,Philippines,0
+1996,Poland,5
+1996,Portugal,0
+1996,Puerto Rico,0
+1996,Qatar,0
+1996,Romania,2
+1996,Russia,19
+1996,Saudi Arabia,0
+1996,Senegal,0
+1996,Slovenia,2
+1996,South Africa,5
+1996,South Korea,2
+1996,Soviet Union,0
+1996,Spain,3
+1996,Sr.,0
+1996,Sri Lanka,0
+1996,Sudan,0
+1996,Sweden,3
+1996,Switzerland,0
+1996,Syria,3
+1996,Taiwan,0
+1996,Tanzania,0
+1996,Trinidad and Tobago,2
+1996,Tunisia,0
+1996,Turkey,0
+1996,Uganda,1
+1996,Ukraine,6
+1996,Unified Team,0
+1996,United States,49
+1996,United Team of Germany,0
+1996,Venezuela,0
+1996,West Germany,0
+1996,Yugoslavia,0
+1996,Zambia,2
+2000,Algeria,7
+2000,Argentina,0
+2000,Australia,7
+2000,Austria,2
+2000,Bahamas,6
+2000,Barbados,1
+2000,Belarus,9
+2000,Belgium,0
+2000,Bohemia,0
+2000,Botswana,0
+2000,Brazil,0
+2000,British West Indies,0
+2000,Brunei,0
+2000,Bulgaria,3
+2000,Burundi,0
+2000,Cameroon,0
+2000,Canada,0
+2000,Ceylon,0
+2000,Chile,0
+2000,China,3
+2000,Colombia,0
+2000,Croatia,0
+2000,Cuba,11
+2000,Czech Republic,5
+2000,Czechoslovakia,0
+2000,Denmark,2
+2000,Djibouti,0
+2000,Dominican Republic,0
+2000,East Germany,0
+2000,Ecuador,0
+2000,Estonia,3
+2000,Ethiopia,8
+2000,Finland,3
+2000,France,0
+2000,Germany,10
+2000,Great Britain,12
+2000,Greece,10
+2000,Grenada,0
+2000,Guatemala,0
+2000,Haiti,0
+2000,Hungary,0
+2000,Iceland,1
+2000,India,0
+2000,Iran,0
+2000,Ireland,2
+2000,Italy,4
+2000,Ivory Coast (Côte d'Ivoire),0
+2000,Jamaica,12
+2000,Japan,3
+2000,Kazakhstan,3
+2000,Kenya,12
+2000,Latvia,2
+2000,Lithuania,3
+2000,Luxembourg,0
+2000,Mexico,3
+2000,Morocco,5
+2000,Mozambique,3
+2000,Namibia,0
+2000,Netherlands,0
+2000,New Zealand,0
+2000,Nigeria,2
+2000,Norway,5
+2000,Panama,0
+2000,Philippines,0
+2000,Poland,12
+2000,Portugal,0
+2000,Puerto Rico,0
+2000,Qatar,0
+2000,Romania,8
+2000,Russia,23
+2000,Saudi Arabia,2
+2000,Senegal,0
+2000,Slovenia,0
+2000,South Africa,4
+2000,South Korea,0
+2000,Soviet Union,0
+2000,Spain,1
+2000,Sr.,0
+2000,Sri Lanka,2
+2000,Sudan,0
+2000,Sweden,1
+2000,Switzerland,0
+2000,Syria,0
+2000,Taiwan,0
+2000,Tanzania,0
+2000,Trinidad and Tobago,3
+2000,Tunisia,0
+2000,Turkey,0
+2000,Uganda,0
+2000,Ukraine,2
+2000,Unified Team,0
+2000,United States,31
+2000,United Team of Germany,0
+2000,Venezuela,0
+2000,West Germany,0
+2000,Yugoslavia,0
+2000,Zambia,0
+2004,Algeria,0
+2004,Argentina,0
+2004,Australia,2
+2004,Austria,0
+2004,Bahamas,4
+2004,Barbados,0
+2004,Belarus,3
+2004,Belgium,0
+2004,Bohemia,0
+2004,Botswana,0
+2004,Brazil,1
+2004,British West Indies,0
+2004,Brunei,0
+2004,Bulgaria,0
+2004,Burundi,0
+2004,Cameroon,3
+2004,Canada,0
+2004,Ceylon,0
+2004,Chile,0
+2004,China,3
+2004,Colombia,0
+2004,Croatia,0
+2004,Cuba,10
+2004,Czech Republic,5
+2004,Czechoslovakia,0
+2004,Denmark,3
+2004,Djibouti,0
+2004,Dominican Republic,3
+2004,East Germany,0
+2004,Ecuador,0
+2004,Estonia,1
+2004,Ethiopia,6
+2004,Finland,0
+2004,France,2
+2004,Germany,4
+2004,Great Britain,7
+2004,Greece,11
+2004,Grenada,0
+2004,Guatemala,0
+2004,Haiti,0
+2004,Hungary,2
+2004,Iceland,0
+2004,India,0
+2004,Iran,0
+2004,Ireland,0
+2004,Italy,7
+2004,Ivory Coast (Côte d'Ivoire),0
+2004,Jamaica,10
+2004,Japan,6
+2004,Kazakhstan,1
+2004,Kenya,13
+2004,Latvia,2
+2004,Lithuania,5
+2004,Luxembourg,0
+2004,Mexico,2
+2004,Morocco,8
+2004,Mozambique,0
+2004,Namibia,0
+2004,Netherlands,0
+2004,New Zealand,0
+2004,Nigeria,0
+2004,Norway,3
+2004,Panama,0
+2004,Philippines,0
+2004,Poland,4
+2004,Portugal,3
+2004,Puerto Rico,0
+2004,Qatar,0
+2004,Romania,5
+2004,Russia,38
+2004,Saudi Arabia,0
+2004,Senegal,0
+2004,Slovenia,1
+2004,South Africa,4
+2004,South Korea,0
+2004,Soviet Union,0
+2004,Spain,4
+2004,Sr.,0
+2004,Sri Lanka,0
+2004,Sudan,0
+2004,Sweden,9
+2004,Switzerland,0
+2004,Syria,0
+2004,Taiwan,0
+2004,Tanzania,0
+2004,Trinidad and Tobago,0
+2004,Tunisia,0
+2004,Turkey,2
+2004,Uganda,0
+2004,Ukraine,4
+2004,Unified Team,0
+2004,United States,49
+2004,United Team of Germany,0
+2004,Venezuela,0
+2004,West Germany,0
+2004,Yugoslavia,0
+2004,Zambia,0
+2008,Algeria,0
+2008,Argentina,0
+2008,Australia,8
+2008,Austria,0
+2008,Bahamas,1
+2008,Barbados,0
+2008,Belarus,11
+2008,Belgium,5
+2008,Bohemia,0
+2008,Botswana,0
+2008,Brazil,3
+2008,British West Indies,0
+2008,Brunei,0
+2008,Bulgaria,0
+2008,Burundi,0
+2008,Cameroon,3
+2008,Canada,2
+2008,Ceylon,0
+2008,Chile,0
+2008,China,2
+2008,Colombia,0
+2008,Croatia,2
+2008,Cuba,9
+2008,Czech Republic,3
+2008,Czechoslovakia,0
+2008,Denmark,0
+2008,Djibouti,0
+2008,Dominican Republic,0
+2008,East Germany,0
+2008,Ecuador,2
+2008,Estonia,3
+2008,Ethiopia,8
+2008,Finland,1
+2008,France,3
+2008,Germany,1
+2008,Great Britain,8
+2008,Greece,1
+2008,Grenada,0
+2008,Guatemala,0
+2008,Haiti,0
+2008,Hungary,0
+2008,Iceland,0
+2008,India,0
+2008,Iran,0
+2008,Ireland,0
+2008,Italy,4
+2008,Ivory Coast (Côte d'Ivoire),0
+2008,Jamaica,21
+2008,Japan,0
+2008,Kazakhstan,0
+2008,Kenya,29
+2008,Latvia,2
+2008,Lithuania,1
+2008,Luxembourg,0
+2008,Mexico,0
+2008,Morocco,3
+2008,Mozambique,0
+2008,Namibia,0
+2008,Netherlands,0
+2008,New Zealand,5
+2008,Nigeria,2
+2008,Norway,5
+2008,Panama,3
+2008,Philippines,0
+2008,Poland,5
+2008,Portugal,3
+2008,Puerto Rico,0
+2008,Qatar,0
+2008,Romania,3
+2008,Russia,34
+2008,Saudi Arabia,0
+2008,Senegal,0
+2008,Slovenia,3
+2008,South Africa,2
+2008,South Korea,0
+2008,Soviet Union,0
+2008,Spain,0
+2008,Sr.,0
+2008,Sri Lanka,0
+2008,Sudan,2
+2008,Sweden,0
+2008,Switzerland,0
+2008,Syria,0
+2008,Taiwan,0
+2008,Tanzania,0
+2008,Trinidad and Tobago,2
+2008,Tunisia,0
+2008,Turkey,2
+2008,Uganda,0
+2008,Ukraine,8
+2008,Unified Team,0
+2008,United States,42
+2008,United Team of Germany,0
+2008,Venezuela,0
+2008,West Germany,0
+2008,Yugoslavia,0
+2008,Zambia,0
+2012,Algeria,3
+2012,Argentina,0
+2012,Australia,8
+2012,Austria,0
+2012,Bahamas,0
+2012,Barbados,0
+2012,Belarus,0
+2012,Belgium,0
+2012,Bohemia,0
+2012,Botswana,2
+2012,Brazil,0
+2012,British West Indies,0
+2012,Brunei,2
+2012,Bulgaria,0
+2012,Burundi,0
+2012,Cameroon,0
+2012,Canada,0
+2012,Ceylon,0
+2012,Chile,0
+2012,China,10
+2012,Colombia,2
+2012,Croatia,3
+2012,Cuba,4
+2012,Czech Republic,4
+2012,Czechoslovakia,0
+2012,Denmark,0
+2012,Djibouti,0
+2012,Dominican Republic,5
+2012,East Germany,0
+2012,Ecuador,0
+2012,Estonia,1
+2012,Ethiopia,10
+2012,Finland,1
+2012,France,5
+2012,Germany,14
+2012,Great Britain,11
+2012,Greece,0
+2012,Grenada,3
+2012,Guatemala,2
+2012,Haiti,0
+2012,Hungary,3
+2012,Iceland,0
+2012,India,0
+2012,Iran,2
+2012,Ireland,1
+2012,Italy,1
+2012,Ivory Coast (Côte d'Ivoire),0
+2012,Jamaica,21
+2012,Japan,1
+2012,Kazakhstan,3
+2012,Kenya,16
+2012,Latvia,0
+2012,Lithuania,0
+2012,Luxembourg,0
+2012,Mexico,0
+2012,Morocco,1
+2012,Mozambique,0
+2012,Namibia,0
+2012,Netherlands,0
+2012,New Zealand,3
+2012,Nigeria,0
+2012,Norway,0
+2012,Panama,0
+2012,Philippines,0
+2012,Poland,5
+2012,Portugal,0
+2012,Puerto Rico,1
+2012,Qatar,1
+2012,Romania,0
+2012,Russia,34
+2012,Saudi Arabia,0
+2012,Senegal,0
+2012,Slovenia,2
+2012,South Africa,2
+2012,South Korea,0
+2012,Soviet Union,0
+2012,Spain,0
+2012,Sr.,0
+2012,Sri Lanka,0
+2012,Sudan,0
+2012,Sweden,0
+2012,Switzerland,0
+2012,Syria,0
+2012,Taiwan,0
+2012,Tanzania,0
+2012,Trinidad and Tobago,4
+2012,Tunisia,2
+2012,Turkey,3
+2012,Uganda,3
+2012,Ukraine,4
+2012,Unified Team,0
+2012,United States,54
+2012,United Team of Germany,0
+2012,Venezuela,0
+2012,West Germany,0
+2012,Yugoslavia,0
+2012,Zambia,0

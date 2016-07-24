@@ -85,20 +85,16 @@ for my $item (keys %$grade_year) {
 
 for my $item (keys %$grade_year) {
     open GRADE_ITEM, ">./item/$item.csv" or die $!;
-    my $head = join ",", keys $all_country->{$item};
-    print GRADE_ITEM ",$head\n";
     for my $year (@all_year) {
         my @yearly;
         push @yearly, $year;
         for my $country (sort keys %{$all_country->{$item}}) {
             if (exists $grade_year->{$item}->{$year}->{$country}) {
-                push @yearly, $grade_year->{$item}->{$year}->{$country} ;
+                print GRADE_ITEM "$year,$country,".$grade_year->{$item}->{$year}->{$country}."\n";
             } else {
-                push @yearly, 0;
+                print GRADE_ITEM "$year,$country,0\n";
             }
         }
-        print GRADE_ITEM join ",", @yearly;
-        print GRADE_ITEM "\n";
     }
     close GRADE_ITEM;
 }
