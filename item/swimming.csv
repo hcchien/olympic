@@ -1,66 +1,3 @@
-1896,Argentina,0
-1896,Arnaud Geyre,0
-1896,Arne Berg,0
-1896,Arthur Brittain,0
-1896,Auguste Garrebeek,0
-1896,Australasia,0
-1896,Australia,0
-1896,Austria,0
-1896,Belarus,0
-1896,Belgium,0
-1896,Bulgaria,0
-1896,Canada,0
-1896,China,0
-1896,Colombia,0
-1896,Costa Rica,0
-1896,Czech Republic,0
-1896,Denmark,0
-1896,Dino Bruni,0
-1896,East Germany,0
-1896,Edgar Buchwalder,0
-1896,France,0
-1896,Germany,2
-1896,Giuseppe Olmo,0
-1896,Great Britain,1
-1896,Greece,3
-1896,Gösta Carlsson,0
-1896,Henry Hansen,0
-1896,Hungary,0
-1896,Ireland,0
-1896,Italy,0
-1896,Jack Lauterwasser,0
-1896,Jacques Anquetil,0
-1896,Japan,0
-1896,José Beyaert,0
-1896,Kazakhstan,0
-1896,Latvia,0
-1896,Lithuania,0
-1896,Léon Delathouwer,0
-1896,Mexico,0
-1896,Netherlands,0
-1896,New Zealand,0
-1896,Norway,0
-1896,Poland,0
-1896,Portugal,0
-1896,Reinhold Pommer,0
-1896,Robert Charpentier,0
-1896,Robert Grondelaers,0
-1896,Robert John Maitland,0
-1896,Romania,0
-1896,Russia,0
-1896,Slovakia,0
-1896,Slovenia,0
-1896,South Africa,0
-1896,Soviet Union,0
-1896,Spain,0
-1896,Sweden,0
-1896,Switzerland,0
-1896,Ukraine,0
-1896,Unified Team,0
-1896,United States,0
-1896,West Germany,0
-1896,Yugoslavia,0
-1896,Zimbabwe,0
 1900,Argentina,0
 1900,Arnaud Geyre,0
 1900,Arne Berg,0
@@ -124,132 +61,6 @@
 1900,West Germany,0
 1900,Yugoslavia,0
 1900,Zimbabwe,0
-1904,Argentina,0
-1904,Arnaud Geyre,0
-1904,Arne Berg,0
-1904,Arthur Brittain,0
-1904,Auguste Garrebeek,0
-1904,Australasia,0
-1904,Australia,0
-1904,Austria,0
-1904,Belarus,0
-1904,Belgium,0
-1904,Bulgaria,0
-1904,Canada,0
-1904,China,0
-1904,Colombia,0
-1904,Costa Rica,0
-1904,Czech Republic,0
-1904,Denmark,0
-1904,Dino Bruni,0
-1904,East Germany,0
-1904,Edgar Buchwalder,0
-1904,France,0
-1904,Germany,0
-1904,Giuseppe Olmo,0
-1904,Great Britain,0
-1904,Greece,0
-1904,Gösta Carlsson,0
-1904,Henry Hansen,0
-1904,Hungary,0
-1904,Ireland,0
-1904,Italy,0
-1904,Jack Lauterwasser,0
-1904,Jacques Anquetil,0
-1904,Japan,0
-1904,José Beyaert,0
-1904,Kazakhstan,0
-1904,Latvia,0
-1904,Lithuania,0
-1904,Léon Delathouwer,0
-1904,Mexico,0
-1904,Netherlands,0
-1904,New Zealand,0
-1904,Norway,0
-1904,Poland,0
-1904,Portugal,0
-1904,Reinhold Pommer,0
-1904,Robert Charpentier,0
-1904,Robert Grondelaers,0
-1904,Robert John Maitland,0
-1904,Romania,0
-1904,Russia,0
-1904,Slovakia,0
-1904,Slovenia,0
-1904,South Africa,0
-1904,Soviet Union,0
-1904,Spain,0
-1904,Sweden,0
-1904,Switzerland,0
-1904,Ukraine,0
-1904,Unified Team,0
-1904,United States,0
-1904,West Germany,0
-1904,Yugoslavia,0
-1904,Zimbabwe,0
-1908,Argentina,0
-1908,Arnaud Geyre,0
-1908,Arne Berg,0
-1908,Arthur Brittain,0
-1908,Auguste Garrebeek,0
-1908,Australasia,0
-1908,Australia,0
-1908,Austria,0
-1908,Belarus,0
-1908,Belgium,0
-1908,Bulgaria,0
-1908,Canada,0
-1908,China,0
-1908,Colombia,0
-1908,Costa Rica,0
-1908,Czech Republic,0
-1908,Denmark,0
-1908,Dino Bruni,0
-1908,East Germany,0
-1908,Edgar Buchwalder,0
-1908,France,0
-1908,Germany,0
-1908,Giuseppe Olmo,0
-1908,Great Britain,0
-1908,Greece,0
-1908,Gösta Carlsson,0
-1908,Henry Hansen,0
-1908,Hungary,0
-1908,Ireland,0
-1908,Italy,0
-1908,Jack Lauterwasser,0
-1908,Jacques Anquetil,0
-1908,Japan,0
-1908,José Beyaert,0
-1908,Kazakhstan,0
-1908,Latvia,0
-1908,Lithuania,0
-1908,Léon Delathouwer,0
-1908,Mexico,0
-1908,Netherlands,0
-1908,New Zealand,0
-1908,Norway,0
-1908,Poland,0
-1908,Portugal,0
-1908,Reinhold Pommer,0
-1908,Robert Charpentier,0
-1908,Robert Grondelaers,0
-1908,Robert John Maitland,0
-1908,Romania,0
-1908,Russia,0
-1908,Slovakia,0
-1908,Slovenia,0
-1908,South Africa,0
-1908,Soviet Union,0
-1908,Spain,0
-1908,Sweden,0
-1908,Switzerland,0
-1908,Ukraine,0
-1908,Unified Team,0
-1908,United States,0
-1908,West Germany,0
-1908,Yugoslavia,0
-1908,Zimbabwe,0
 1912,Argentina,0
 1912,Arnaud Geyre,0
 1912,Arne Berg,0
@@ -439,6 +250,825 @@
 1924,West Germany,0
 1924,Yugoslavia,0
 1924,Zimbabwe,0
+1928,Argentina,0
+1928,Arnaud Geyre,0
+1928,Arne Berg,0
+1928,Arthur Brittain,0
+1928,Auguste Garrebeek,0
+1928,Australasia,0
+1928,Australia,0
+1928,Austria,0
+1928,Belarus,0
+1928,Belgium,0
+1928,Bulgaria,0
+1928,Canada,0
+1928,China,0
+1928,Colombia,0
+1928,Costa Rica,0
+1928,Czech Republic,0
+1928,Denmark,3
+1928,Dino Bruni,0
+1928,East Germany,0
+1928,Edgar Buchwalder,0
+1928,France,0
+1928,Germany,4
+1928,Giuseppe Olmo,0
+1928,Great Britain,8
+1928,Greece,0
+1928,Gösta Carlsson,1
+1928,Henry Hansen,3
+1928,Hungary,0
+1928,Ireland,0
+1928,Italy,0
+1928,Jack Lauterwasser,2
+1928,Jacques Anquetil,0
+1928,Japan,0
+1928,José Beyaert,0
+1928,Kazakhstan,0
+1928,Latvia,0
+1928,Lithuania,0
+1928,Léon Delathouwer,0
+1928,Mexico,0
+1928,Netherlands,7
+1928,New Zealand,0
+1928,Norway,0
+1928,Poland,0
+1928,Portugal,0
+1928,Reinhold Pommer,0
+1928,Robert Charpentier,0
+1928,Robert Grondelaers,0
+1928,Robert John Maitland,0
+1928,Romania,0
+1928,Russia,0
+1928,Slovakia,0
+1928,Slovenia,0
+1928,South Africa,1
+1928,Soviet Union,0
+1928,Spain,0
+1928,Sweden,1
+1928,Switzerland,0
+1928,Ukraine,0
+1928,Unified Team,0
+1928,United States,12
+1928,West Germany,0
+1928,Yugoslavia,0
+1928,Zimbabwe,0
+1932,Argentina,0
+1932,Arnaud Geyre,0
+1932,Arne Berg,1
+1932,Arthur Brittain,0
+1932,Auguste Garrebeek,0
+1932,Australasia,0
+1932,Australia,5
+1932,Austria,0
+1932,Belarus,0
+1932,Belgium,0
+1932,Bulgaria,0
+1932,Canada,0
+1932,China,0
+1932,Colombia,0
+1932,Costa Rica,0
+1932,Czech Republic,0
+1932,Denmark,1
+1932,Dino Bruni,0
+1932,East Germany,0
+1932,Edgar Buchwalder,0
+1932,France,0
+1932,Germany,0
+1932,Giuseppe Olmo,3
+1932,Great Britain,2
+1932,Greece,0
+1932,Gösta Carlsson,0
+1932,Henry Hansen,2
+1932,Hungary,0
+1932,Ireland,0
+1932,Italy,5
+1932,Jack Lauterwasser,0
+1932,Jacques Anquetil,0
+1932,Japan,2
+1932,José Beyaert,0
+1932,Kazakhstan,0
+1932,Latvia,0
+1932,Lithuania,0
+1932,Léon Delathouwer,0
+1932,Mexico,0
+1932,Netherlands,4
+1932,New Zealand,0
+1932,Norway,0
+1932,Poland,0
+1932,Portugal,0
+1932,Reinhold Pommer,0
+1932,Robert Charpentier,0
+1932,Robert Grondelaers,0
+1932,Robert John Maitland,0
+1932,Romania,0
+1932,Russia,0
+1932,Slovakia,0
+1932,Slovenia,0
+1932,South Africa,1
+1932,Soviet Union,0
+1932,Spain,0
+1932,Sweden,1
+1932,Switzerland,0
+1932,Ukraine,0
+1932,Unified Team,0
+1932,United States,15
+1932,West Germany,0
+1932,Yugoslavia,0
+1932,Zimbabwe,0
+1936,Argentina,2
+1936,Arnaud Geyre,0
+1936,Arne Berg,0
+1936,Arthur Brittain,0
+1936,Auguste Garrebeek,1
+1936,Australasia,0
+1936,Australia,0
+1936,Austria,0
+1936,Belarus,0
+1936,Belgium,0
+1936,Bulgaria,0
+1936,Canada,0
+1936,China,0
+1936,Colombia,0
+1936,Costa Rica,0
+1936,Czech Republic,0
+1936,Denmark,3
+1936,Dino Bruni,0
+1936,East Germany,2
+1936,Edgar Buchwalder,2
+1936,France,5
+1936,Germany,3
+1936,Giuseppe Olmo,0
+1936,Great Britain,0
+1936,Greece,0
+1936,Gösta Carlsson,0
+1936,Henry Hansen,0
+1936,Hungary,0
+1936,Ireland,0
+1936,Italy,0
+1936,Jack Lauterwasser,0
+1936,Jacques Anquetil,0
+1936,Japan,3
+1936,José Beyaert,0
+1936,Kazakhstan,0
+1936,Latvia,0
+1936,Lithuania,0
+1936,Léon Delathouwer,0
+1936,Mexico,0
+1936,Netherlands,14
+1936,New Zealand,0
+1936,Norway,0
+1936,Poland,0
+1936,Portugal,0
+1936,Reinhold Pommer,0
+1936,Robert Charpentier,3
+1936,Robert Grondelaers,0
+1936,Robert John Maitland,0
+1936,Romania,0
+1936,Russia,0
+1936,Slovakia,0
+1936,Slovenia,0
+1936,South Africa,0
+1936,Soviet Union,0
+1936,Spain,0
+1936,Sweden,0
+1936,Switzerland,1
+1936,Ukraine,0
+1936,Unified Team,0
+1936,United States,3
+1936,West Germany,0
+1936,Yugoslavia,0
+1936,Zimbabwe,0
+1948,Argentina,0
+1948,Arnaud Geyre,0
+1948,Arne Berg,0
+1948,Arthur Brittain,0
+1948,Auguste Garrebeek,0
+1948,Australasia,0
+1948,Australia,3
+1948,Austria,0
+1948,Belarus,0
+1948,Belgium,1
+1948,Bulgaria,0
+1948,Canada,0
+1948,China,0
+1948,Colombia,0
+1948,Costa Rica,0
+1948,Czech Republic,0
+1948,Denmark,10
+1948,Dino Bruni,0
+1948,East Germany,0
+1948,Edgar Buchwalder,0
+1948,France,3
+1948,Germany,0
+1948,Giuseppe Olmo,0
+1948,Great Britain,1
+1948,Greece,0
+1948,Gösta Carlsson,0
+1948,Henry Hansen,0
+1948,Hungary,1
+1948,Ireland,0
+1948,Italy,0
+1948,Jack Lauterwasser,0
+1948,Jacques Anquetil,0
+1948,Japan,0
+1948,José Beyaert,1
+1948,Kazakhstan,0
+1948,Latvia,0
+1948,Lithuania,0
+1948,Léon Delathouwer,3
+1948,Mexico,0
+1948,Netherlands,7
+1948,New Zealand,0
+1948,Norway,0
+1948,Poland,0
+1948,Portugal,0
+1948,Reinhold Pommer,0
+1948,Robert Charpentier,0
+1948,Robert Grondelaers,0
+1948,Robert John Maitland,2
+1948,Romania,0
+1948,Russia,0
+1948,Slovakia,0
+1948,Slovenia,0
+1948,South Africa,0
+1948,Soviet Union,0
+1948,Spain,0
+1948,Sweden,0
+1948,Switzerland,0
+1948,Ukraine,0
+1948,Unified Team,0
+1948,United States,10
+1948,West Germany,0
+1948,Yugoslavia,0
+1948,Zimbabwe,0
+1952,Argentina,0
+1952,Arnaud Geyre,0
+1952,Arne Berg,0
+1952,Arthur Brittain,0
+1952,Auguste Garrebeek,0
+1952,Australasia,0
+1952,Australia,0
+1952,Austria,0
+1952,Belarus,0
+1952,Belgium,5
+1952,Bulgaria,0
+1952,Canada,0
+1952,China,0
+1952,Colombia,0
+1952,Costa Rica,0
+1952,Czech Republic,0
+1952,Denmark,0
+1952,Dino Bruni,2
+1952,East Germany,0
+1952,Edgar Buchwalder,0
+1952,France,0
+1952,Germany,1
+1952,Giuseppe Olmo,0
+1952,Great Britain,1
+1952,Greece,0
+1952,Gösta Carlsson,0
+1952,Henry Hansen,0
+1952,Hungary,17
+1952,Ireland,0
+1952,Italy,0
+1952,Jack Lauterwasser,0
+1952,Jacques Anquetil,1
+1952,Japan,0
+1952,José Beyaert,0
+1952,Kazakhstan,0
+1952,Latvia,0
+1952,Lithuania,0
+1952,Léon Delathouwer,0
+1952,Mexico,0
+1952,Netherlands,6
+1952,New Zealand,1
+1952,Norway,0
+1952,Poland,0
+1952,Portugal,0
+1952,Reinhold Pommer,0
+1952,Robert Charpentier,0
+1952,Robert Grondelaers,3
+1952,Robert John Maitland,0
+1952,Romania,0
+1952,Russia,0
+1952,Slovakia,0
+1952,Slovenia,0
+1952,South Africa,3
+1952,Soviet Union,0
+1952,Spain,0
+1952,Sweden,0
+1952,Switzerland,0
+1952,Ukraine,0
+1952,Unified Team,0
+1952,United States,2
+1952,West Germany,0
+1952,Yugoslavia,0
+1952,Zimbabwe,0
+1956,Argentina,0
+1956,Arnaud Geyre,3
+1956,Arne Berg,0
+1956,Arthur Brittain,2
+1956,Auguste Garrebeek,0
+1956,Australasia,0
+1956,Australia,14
+1956,Austria,0
+1956,Belarus,0
+1956,Belgium,0
+1956,Bulgaria,0
+1956,Canada,0
+1956,China,0
+1956,Colombia,0
+1956,Costa Rica,0
+1956,Czech Republic,0
+1956,Denmark,0
+1956,Dino Bruni,0
+1956,East Germany,0
+1956,Edgar Buchwalder,0
+1956,France,2
+1956,Germany,4
+1956,Giuseppe Olmo,0
+1956,Great Britain,5
+1956,Greece,0
+1956,Gösta Carlsson,0
+1956,Henry Hansen,0
+1956,Hungary,2
+1956,Ireland,0
+1956,Italy,3
+1956,Jack Lauterwasser,0
+1956,Jacques Anquetil,0
+1956,Japan,0
+1956,José Beyaert,0
+1956,Kazakhstan,0
+1956,Latvia,0
+1956,Lithuania,0
+1956,Léon Delathouwer,0
+1956,Mexico,0
+1956,Netherlands,0
+1956,New Zealand,0
+1956,Norway,0
+1956,Poland,0
+1956,Portugal,0
+1956,Reinhold Pommer,1
+1956,Robert Charpentier,0
+1956,Robert Grondelaers,0
+1956,Robert John Maitland,0
+1956,Romania,0
+1956,Russia,0
+1956,Slovakia,0
+1956,Slovenia,0
+1956,South Africa,1
+1956,Soviet Union,0
+1956,Spain,0
+1956,Sweden,0
+1956,Switzerland,0
+1956,Ukraine,0
+1956,Unified Team,0
+1956,United States,11
+1956,West Germany,0
+1956,Yugoslavia,0
+1956,Zimbabwe,0
+1960,Argentina,0
+1960,Arnaud Geyre,0
+1960,Arne Berg,0
+1960,Arthur Brittain,0
+1960,Auguste Garrebeek,0
+1960,Australasia,0
+1960,Australia,8
+1960,Austria,0
+1960,Belarus,0
+1960,Belgium,1
+1960,Bulgaria,0
+1960,Canada,0
+1960,China,0
+1960,Colombia,0
+1960,Costa Rica,0
+1960,Czech Republic,0
+1960,Denmark,0
+1960,Dino Bruni,0
+1960,East Germany,0
+1960,Edgar Buchwalder,0
+1960,France,0
+1960,Germany,5
+1960,Giuseppe Olmo,0
+1960,Great Britain,6
+1960,Greece,0
+1960,Gösta Carlsson,0
+1960,Henry Hansen,0
+1960,Hungary,0
+1960,Ireland,0
+1960,Italy,2
+1960,Jack Lauterwasser,0
+1960,Jacques Anquetil,0
+1960,Japan,1
+1960,José Beyaert,0
+1960,Kazakhstan,0
+1960,Latvia,0
+1960,Lithuania,0
+1960,Léon Delathouwer,0
+1960,Mexico,0
+1960,Netherlands,3
+1960,New Zealand,0
+1960,Norway,0
+1960,Poland,0
+1960,Portugal,0
+1960,Reinhold Pommer,0
+1960,Robert Charpentier,0
+1960,Robert Grondelaers,0
+1960,Robert John Maitland,0
+1960,Romania,0
+1960,Russia,0
+1960,Slovakia,0
+1960,Slovenia,0
+1960,South Africa,0
+1960,Soviet Union,3
+1960,Spain,0
+1960,Sweden,2
+1960,Switzerland,0
+1960,Ukraine,0
+1960,Unified Team,0
+1960,United States,17
+1960,West Germany,0
+1960,Yugoslavia,0
+1960,Zimbabwe,0
+1964,Argentina,0
+1964,Arnaud Geyre,0
+1964,Arne Berg,0
+1964,Arthur Brittain,0
+1964,Auguste Garrebeek,0
+1964,Australasia,0
+1964,Australia,5
+1964,Austria,0
+1964,Belarus,0
+1964,Belgium,1
+1964,Bulgaria,0
+1964,Canada,0
+1964,China,0
+1964,Colombia,0
+1964,Costa Rica,0
+1964,Czech Republic,0
+1964,Denmark,2
+1964,Dino Bruni,0
+1964,East Germany,0
+1964,Edgar Buchwalder,0
+1964,France,2
+1964,Germany,0
+1964,Giuseppe Olmo,0
+1964,Great Britain,0
+1964,Greece,0
+1964,Gösta Carlsson,0
+1964,Henry Hansen,0
+1964,Hungary,0
+1964,Ireland,0
+1964,Italy,3
+1964,Jack Lauterwasser,0
+1964,Jacques Anquetil,0
+1964,Japan,0
+1964,José Beyaert,0
+1964,Kazakhstan,0
+1964,Latvia,0
+1964,Lithuania,0
+1964,Léon Delathouwer,0
+1964,Mexico,0
+1964,Netherlands,5
+1964,New Zealand,0
+1964,Norway,0
+1964,Poland,0
+1964,Portugal,0
+1964,Reinhold Pommer,0
+1964,Robert Charpentier,0
+1964,Robert Grondelaers,0
+1964,Robert John Maitland,0
+1964,Romania,0
+1964,Russia,0
+1964,Slovakia,0
+1964,Slovenia,0
+1964,South Africa,0
+1964,Soviet Union,5
+1964,Spain,0
+1964,Sweden,0
+1964,Switzerland,0
+1964,Ukraine,0
+1964,Unified Team,0
+1964,United States,31
+1964,West Germany,0
+1964,Yugoslavia,0
+1964,Zimbabwe,0
+1968,Argentina,0
+1968,Arnaud Geyre,0
+1968,Arne Berg,0
+1968,Arthur Brittain,0
+1968,Auguste Garrebeek,0
+1968,Australasia,0
+1968,Australia,6
+1968,Austria,0
+1968,Belarus,0
+1968,Belgium,0
+1968,Bulgaria,0
+1968,Canada,5
+1968,China,0
+1968,Colombia,0
+1968,Costa Rica,0
+1968,Czech Republic,0
+1968,Denmark,2
+1968,Dino Bruni,0
+1968,East Germany,5
+1968,Edgar Buchwalder,0
+1968,France,0
+1968,Germany,1
+1968,Giuseppe Olmo,0
+1968,Great Britain,0
+1968,Greece,0
+1968,Gösta Carlsson,0
+1968,Henry Hansen,0
+1968,Hungary,0
+1968,Ireland,0
+1968,Italy,3
+1968,Jack Lauterwasser,0
+1968,Jacques Anquetil,0
+1968,Japan,0
+1968,José Beyaert,0
+1968,Kazakhstan,0
+1968,Latvia,0
+1968,Lithuania,0
+1968,Léon Delathouwer,0
+1968,Mexico,1
+1968,Netherlands,3
+1968,New Zealand,0
+1968,Norway,0
+1968,Poland,0
+1968,Portugal,0
+1968,Reinhold Pommer,0
+1968,Robert Charpentier,0
+1968,Robert Grondelaers,0
+1968,Robert John Maitland,0
+1968,Romania,0
+1968,Russia,0
+1968,Slovakia,0
+1968,Slovenia,0
+1968,South Africa,0
+1968,Soviet Union,3
+1968,Spain,0
+1968,Sweden,1
+1968,Switzerland,0
+1968,Ukraine,0
+1968,Unified Team,0
+1968,United States,55
+1968,West Germany,0
+1968,Yugoslavia,5
+1968,Zimbabwe,0
+1972,Argentina,0
+1972,Arnaud Geyre,0
+1972,Arne Berg,0
+1972,Arthur Brittain,0
+1972,Auguste Garrebeek,0
+1972,Australasia,0
+1972,Australia,21
+1972,Austria,0
+1972,Belarus,0
+1972,Belgium,0
+1972,Bulgaria,0
+1972,Canada,3
+1972,China,0
+1972,Colombia,0
+1972,Costa Rica,0
+1972,Czech Republic,0
+1972,Denmark,0
+1972,Dino Bruni,0
+1972,East Germany,12
+1972,Edgar Buchwalder,0
+1972,France,0
+1972,Germany,2
+1972,Giuseppe Olmo,0
+1972,Great Britain,0
+1972,Greece,0
+1972,Gösta Carlsson,0
+1972,Henry Hansen,0
+1972,Hungary,3
+1972,Ireland,0
+1972,Italy,4
+1972,Jack Lauterwasser,0
+1972,Jacques Anquetil,0
+1972,Japan,3
+1972,José Beyaert,0
+1972,Kazakhstan,0
+1972,Latvia,0
+1972,Lithuania,0
+1972,Léon Delathouwer,0
+1972,Mexico,0
+1972,Netherlands,3
+1972,New Zealand,0
+1972,Norway,0
+1972,Poland,0
+1972,Portugal,0
+1972,Reinhold Pommer,0
+1972,Robert Charpentier,0
+1972,Robert Grondelaers,0
+1972,Robert John Maitland,0
+1972,Romania,0
+1972,Russia,0
+1972,Slovakia,0
+1972,Slovenia,0
+1972,South Africa,0
+1972,Soviet Union,3
+1972,Spain,0
+1972,Sweden,0
+1972,Switzerland,0
+1972,Ukraine,0
+1972,Unified Team,0
+1972,United States,35
+1972,West Germany,0
+1972,Yugoslavia,0
+1972,Zimbabwe,0
+1976,Argentina,0
+1976,Arnaud Geyre,0
+1976,Arne Berg,0
+1976,Arthur Brittain,0
+1976,Auguste Garrebeek,0
+1976,Australasia,0
+1976,Australia,0
+1976,Austria,0
+1976,Belarus,0
+1976,Belgium,0
+1976,Bulgaria,0
+1976,Canada,8
+1976,China,0
+1976,Colombia,0
+1976,Costa Rica,0
+1976,Czech Republic,0
+1976,Denmark,0
+1976,Dino Bruni,0
+1976,East Germany,46
+1976,Edgar Buchwalder,0
+1976,France,0
+1976,Germany,0
+1976,Giuseppe Olmo,0
+1976,Great Britain,0
+1976,Greece,0
+1976,Gösta Carlsson,0
+1976,Henry Hansen,0
+1976,Hungary,0
+1976,Ireland,0
+1976,Italy,2
+1976,Jack Lauterwasser,0
+1976,Jacques Anquetil,0
+1976,Japan,0
+1976,José Beyaert,0
+1976,Kazakhstan,0
+1976,Latvia,0
+1976,Lithuania,0
+1976,Léon Delathouwer,0
+1976,Mexico,0
+1976,Netherlands,2
+1976,New Zealand,0
+1976,Norway,0
+1976,Poland,1
+1976,Portugal,0
+1976,Reinhold Pommer,0
+1976,Robert Charpentier,0
+1976,Robert Grondelaers,0
+1976,Robert John Maitland,0
+1976,Romania,0
+1976,Russia,0
+1976,Slovakia,0
+1976,Slovenia,0
+1976,South Africa,0
+1976,Soviet Union,9
+1976,Spain,0
+1976,Sweden,3
+1976,Switzerland,0
+1976,Ukraine,0
+1976,Unified Team,0
+1976,United States,13
+1976,West Germany,0
+1976,Yugoslavia,0
+1976,Zimbabwe,0
+1980,Argentina,0
+1980,Arnaud Geyre,0
+1980,Arne Berg,0
+1980,Arthur Brittain,0
+1980,Auguste Garrebeek,0
+1980,Australasia,0
+1980,Australia,4
+1980,Austria,0
+1980,Belarus,0
+1980,Belgium,0
+1980,Bulgaria,0
+1980,Canada,0
+1980,China,0
+1980,Colombia,0
+1980,Costa Rica,0
+1980,Czech Republic,0
+1980,Denmark,1
+1980,Dino Bruni,0
+1980,East Germany,56
+1980,Edgar Buchwalder,0
+1980,France,0
+1980,Germany,0
+1980,Giuseppe Olmo,0
+1980,Great Britain,4
+1980,Greece,0
+1980,Gösta Carlsson,0
+1980,Henry Hansen,0
+1980,Hungary,0
+1980,Ireland,0
+1980,Italy,0
+1980,Jack Lauterwasser,0
+1980,Jacques Anquetil,0
+1980,Japan,0
+1980,José Beyaert,0
+1980,Kazakhstan,0
+1980,Latvia,0
+1980,Lithuania,0
+1980,Léon Delathouwer,0
+1980,Mexico,0
+1980,Netherlands,1
+1980,New Zealand,0
+1980,Norway,0
+1980,Poland,3
+1980,Portugal,0
+1980,Reinhold Pommer,0
+1980,Robert Charpentier,0
+1980,Robert Grondelaers,0
+1980,Robert John Maitland,0
+1980,Romania,0
+1980,Russia,0
+1980,Slovakia,0
+1980,Slovenia,0
+1980,South Africa,0
+1980,Soviet Union,13
+1980,Spain,0
+1980,Sweden,2
+1980,Switzerland,0
+1980,Ukraine,0
+1980,Unified Team,0
+1980,United States,0
+1980,West Germany,0
+1980,Yugoslavia,0
+1980,Zimbabwe,0
+1984,Argentina,0
+1984,Arnaud Geyre,0
+1984,Arne Berg,0
+1984,Arthur Brittain,0
+1984,Auguste Garrebeek,0
+1984,Australasia,0
+1984,Australia,5
+1984,Austria,0
+1984,Belarus,0
+1984,Belgium,1
+1984,Bulgaria,0
+1984,Canada,8
+1984,China,2
+1984,Colombia,0
+1984,Costa Rica,0
+1984,Czech Republic,0
+1984,Denmark,0
+1984,Dino Bruni,0
+1984,East Germany,3
+1984,Edgar Buchwalder,0
+1984,France,2
+1984,Germany,3
+1984,Giuseppe Olmo,0
+1984,Great Britain,4
+1984,Greece,0
+1984,Gösta Carlsson,0
+1984,Henry Hansen,0
+1984,Hungary,0
+1984,Ireland,0
+1984,Italy,0
+1984,Jack Lauterwasser,0
+1984,Jacques Anquetil,0
+1984,Japan,0
+1984,José Beyaert,0
+1984,Kazakhstan,0
+1984,Latvia,0
+1984,Lithuania,0
+1984,Léon Delathouwer,0
+1984,Mexico,0
+1984,Netherlands,11
+1984,New Zealand,0
+1984,Norway,1
+1984,Poland,0
+1984,Portugal,0
+1984,Reinhold Pommer,0
+1984,Robert Charpentier,0
+1984,Robert Grondelaers,0
+1984,Robert John Maitland,0
+1984,Romania,1
+1984,Russia,0
+1984,Slovakia,0
+1984,Slovenia,0
+1984,South Africa,0
+1984,Soviet Union,0
+1984,Spain,0
+1984,Sweden,0
+1984,Switzerland,0
+1984,Ukraine,0
+1984,Unified Team,0
+1984,United States,53
+1984,West Germany,3
+1984,Yugoslavia,0
+1984,Zimbabwe,0
 1988,Argentina,0
 1988,Arnaud Geyre,0
 1988,Arne Berg,0

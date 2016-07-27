@@ -1,28 +1,3 @@
-1896,Australia,0
-1896,Belarus,0
-1896,Bulgaria,0
-1896,Canada,0
-1896,China,0
-1896,Czechoslovakia,0
-1896,East Germany,0
-1896,Finland,0
-1896,France,0
-1896,Germany,0
-1896,Great Britain,0
-1896,Hungary,0
-1896,Italy,0
-1896,Japan,0
-1896,Romania,0
-1896,Russia,0
-1896,South Korea,0
-1896,Soviet Union,0
-1896,Sweden,0
-1896,Switzerland,0
-1896,Ukraine,0
-1896,Unified Team,0
-1896,United States,0
-1896,Uzbekistan,0
-1896,Yugoslavia,0
 1900,Australia,0
 1900,Belarus,0
 1900,Bulgaria,0
@@ -48,56 +23,6 @@
 1900,United States,0
 1900,Uzbekistan,0
 1900,Yugoslavia,0
-1904,Australia,0
-1904,Belarus,0
-1904,Bulgaria,0
-1904,Canada,0
-1904,China,0
-1904,Czechoslovakia,0
-1904,East Germany,0
-1904,Finland,0
-1904,France,0
-1904,Germany,2
-1904,Great Britain,0
-1904,Hungary,0
-1904,Italy,0
-1904,Japan,0
-1904,Romania,0
-1904,Russia,0
-1904,South Korea,0
-1904,Soviet Union,0
-1904,Sweden,0
-1904,Switzerland,1
-1904,Ukraine,0
-1904,Unified Team,0
-1904,United States,9
-1904,Uzbekistan,0
-1904,Yugoslavia,0
-1908,Australia,0
-1908,Belarus,0
-1908,Bulgaria,0
-1908,Canada,0
-1908,China,0
-1908,Czechoslovakia,0
-1908,East Germany,0
-1908,Finland,0
-1908,France,1
-1908,Germany,0
-1908,Great Britain,2
-1908,Hungary,0
-1908,Italy,3
-1908,Japan,0
-1908,Romania,0
-1908,Russia,0
-1908,South Korea,0
-1908,Soviet Union,0
-1908,Sweden,0
-1908,Switzerland,0
-1908,Ukraine,0
-1908,Unified Team,0
-1908,United States,0
-1908,Uzbekistan,0
-1908,Yugoslavia,0
 1912,Australia,0
 1912,Belarus,0
 1912,Bulgaria,0
@@ -173,6 +98,331 @@
 1924,United States,0
 1924,Uzbekistan,0
 1924,Yugoslavia,3
+1928,Australia,0
+1928,Belarus,0
+1928,Bulgaria,0
+1928,Canada,0
+1928,China,0
+1928,Czechoslovakia,0
+1928,East Germany,0
+1928,Finland,0
+1928,France,0
+1928,Germany,0
+1928,Great Britain,0
+1928,Hungary,0
+1928,Italy,0
+1928,Japan,0
+1928,Romania,0
+1928,Russia,0
+1928,South Korea,0
+1928,Soviet Union,0
+1928,Sweden,0
+1928,Switzerland,5
+1928,Ukraine,0
+1928,Unified Team,0
+1928,United States,0
+1928,Uzbekistan,0
+1928,Yugoslavia,1
+1932,Australia,0
+1932,Belarus,0
+1932,Bulgaria,0
+1932,Canada,0
+1932,China,0
+1932,Czechoslovakia,0
+1932,East Germany,0
+1932,Finland,1
+1932,France,0
+1932,Germany,0
+1932,Great Britain,0
+1932,Hungary,2
+1932,Italy,3
+1932,Japan,0
+1932,Romania,0
+1932,Russia,0
+1932,South Korea,0
+1932,Soviet Union,0
+1932,Sweden,0
+1932,Switzerland,0
+1932,Ukraine,0
+1932,Unified Team,0
+1932,United States,0
+1932,Uzbekistan,0
+1932,Yugoslavia,0
+1936,Australia,0
+1936,Belarus,0
+1936,Bulgaria,0
+1936,Canada,0
+1936,China,0
+1936,Czechoslovakia,0
+1936,East Germany,0
+1936,Finland,0
+1936,France,0
+1936,Germany,4
+1936,Great Britain,0
+1936,Hungary,0
+1936,Italy,0
+1936,Japan,0
+1936,Romania,0
+1936,Russia,0
+1936,South Korea,0
+1936,Soviet Union,0
+1936,Sweden,0
+1936,Switzerland,2
+1936,Ukraine,0
+1936,Unified Team,0
+1936,United States,0
+1936,Uzbekistan,0
+1936,Yugoslavia,0
+1948,Australia,0
+1948,Belarus,0
+1948,Bulgaria,0
+1948,Canada,0
+1948,China,0
+1948,Czechoslovakia,0
+1948,East Germany,0
+1948,Finland,4
+1948,France,0
+1948,Germany,0
+1948,Great Britain,0
+1948,Hungary,0
+1948,Italy,0
+1948,Japan,0
+1948,Romania,0
+1948,Russia,0
+1948,South Korea,0
+1948,Soviet Union,0
+1948,Sweden,0
+1948,Switzerland,2
+1948,Ukraine,0
+1948,Unified Team,0
+1948,United States,0
+1948,Uzbekistan,0
+1948,Yugoslavia,0
+1952,Australia,0
+1952,Belarus,0
+1952,Bulgaria,0
+1952,Canada,0
+1952,China,0
+1952,Czechoslovakia,0
+1952,East Germany,0
+1952,Finland,0
+1952,France,0
+1952,Germany,0
+1952,Great Britain,0
+1952,Hungary,3
+1952,Italy,0
+1952,Japan,0
+1952,Romania,0
+1952,Russia,0
+1952,South Korea,0
+1952,Soviet Union,12
+1952,Sweden,4
+1952,Switzerland,1
+1952,Ukraine,0
+1952,Unified Team,0
+1952,United States,0
+1952,Uzbekistan,0
+1952,Yugoslavia,0
+1956,Australia,0
+1956,Belarus,0
+1956,Bulgaria,0
+1956,Canada,0
+1956,China,0
+1956,Czechoslovakia,0
+1956,East Germany,0
+1956,Finland,0
+1956,France,0
+1956,Germany,0
+1956,Great Britain,0
+1956,Hungary,2
+1956,Italy,0
+1956,Japan,2
+1956,Romania,0
+1956,Russia,0
+1956,South Korea,0
+1956,Soviet Union,8
+1956,Sweden,0
+1956,Switzerland,0
+1956,Ukraine,0
+1956,Unified Team,0
+1956,United States,0
+1956,Uzbekistan,0
+1956,Yugoslavia,0
+1960,Australia,0
+1960,Belarus,0
+1960,Bulgaria,0
+1960,Canada,0
+1960,China,0
+1960,Czechoslovakia,0
+1960,East Germany,0
+1960,Finland,0
+1960,France,0
+1960,Germany,0
+1960,Great Britain,0
+1960,Hungary,0
+1960,Italy,0
+1960,Japan,2
+1960,Romania,0
+1960,Russia,0
+1960,South Korea,0
+1960,Soviet Union,10
+1960,Sweden,0
+1960,Switzerland,0
+1960,Ukraine,0
+1960,Unified Team,0
+1960,United States,0
+1960,Uzbekistan,0
+1960,Yugoslavia,0
+1964,Australia,0
+1964,Belarus,0
+1964,Bulgaria,0
+1964,Canada,0
+1964,China,0
+1964,Czechoslovakia,3
+1964,East Germany,0
+1964,Finland,0
+1964,France,0
+1964,Germany,0
+1964,Great Britain,0
+1964,Hungary,0
+1964,Italy,0
+1964,Japan,3
+1964,Romania,0
+1964,Russia,0
+1964,South Korea,0
+1964,Soviet Union,5
+1964,Sweden,0
+1964,Switzerland,0
+1964,Ukraine,0
+1964,Unified Team,0
+1964,United States,0
+1964,Uzbekistan,0
+1964,Yugoslavia,0
+1968,Australia,0
+1968,Belarus,0
+1968,Bulgaria,0
+1968,Canada,0
+1968,China,0
+1968,Czechoslovakia,3
+1968,East Germany,0
+1968,Finland,0
+1968,France,0
+1968,Germany,0
+1968,Great Britain,0
+1968,Hungary,0
+1968,Italy,0
+1968,Japan,4
+1968,Romania,0
+1968,Russia,0
+1968,South Korea,0
+1968,Soviet Union,5
+1968,Sweden,0
+1968,Switzerland,0
+1968,Ukraine,0
+1968,Unified Team,0
+1968,United States,0
+1968,Uzbekistan,0
+1968,Yugoslavia,0
+1972,Australia,0
+1972,Belarus,0
+1972,Bulgaria,0
+1972,Canada,0
+1972,China,0
+1972,Czechoslovakia,0
+1972,East Germany,2
+1972,Finland,0
+1972,France,0
+1972,Germany,0
+1972,Great Britain,0
+1972,Hungary,0
+1972,Italy,0
+1972,Japan,6
+1972,Romania,0
+1972,Russia,0
+1972,South Korea,0
+1972,Soviet Union,4
+1972,Sweden,0
+1972,Switzerland,0
+1972,Ukraine,0
+1972,Unified Team,0
+1972,United States,0
+1972,Uzbekistan,0
+1972,Yugoslavia,0
+1976,Australia,0
+1976,Belarus,0
+1976,Bulgaria,0
+1976,Canada,0
+1976,China,0
+1976,Czechoslovakia,0
+1976,East Germany,0
+1976,Finland,0
+1976,France,0
+1976,Germany,0
+1976,Great Britain,0
+1976,Hungary,0
+1976,Italy,0
+1976,Japan,3
+1976,Romania,3
+1976,Russia,0
+1976,South Korea,0
+1976,Soviet Union,6
+1976,Sweden,0
+1976,Switzerland,0
+1976,Ukraine,0
+1976,Unified Team,0
+1976,United States,0
+1976,Uzbekistan,0
+1976,Yugoslavia,0
+1980,Australia,0
+1980,Belarus,0
+1980,Bulgaria,1
+1980,Canada,0
+1980,China,0
+1980,Czechoslovakia,0
+1980,East Germany,0
+1980,Finland,0
+1980,France,0
+1980,Germany,0
+1980,Great Britain,0
+1980,Hungary,0
+1980,Italy,0
+1980,Japan,0
+1980,Romania,2
+1980,Russia,0
+1980,South Korea,0
+1980,Soviet Union,8
+1980,Sweden,0
+1980,Switzerland,0
+1980,Ukraine,0
+1980,Unified Team,0
+1980,United States,0
+1980,Uzbekistan,0
+1980,Yugoslavia,0
+1984,Australia,0
+1984,Belarus,0
+1984,Bulgaria,0
+1984,Canada,0
+1984,China,1
+1984,Czechoslovakia,0
+1984,East Germany,0
+1984,Finland,0
+1984,France,0
+1984,Germany,0
+1984,Great Britain,0
+1984,Hungary,0
+1984,Italy,0
+1984,Japan,3
+1984,Romania,3
+1984,Russia,0
+1984,South Korea,0
+1984,Soviet Union,0
+1984,Sweden,0
+1984,Switzerland,0
+1984,Ukraine,0
+1984,Unified Team,0
+1984,United States,5
+1984,Uzbekistan,0
+1984,Yugoslavia,0
 1988,Australia,0
 1988,Belarus,0
 1988,Bulgaria,0
