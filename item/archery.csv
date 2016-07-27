@@ -1,195 +1,11 @@
-1900,Australia,0
-1900,China,0
-1900,Finland,0
-1900,France,0
-1900,Great Britain,0
-1900,Italy,0
-1900,Japan,0
-1900,Mexico,0
-1900,Netherlands,0
-1900,Poland,0
-1900,Russia,0
-1900,South Korea,0
-1900,Soviet Union,0
-1900,Sweden,0
-1900,Ukraine,0
-1900,Unified Team,0
-1900,United States,0
-1912,Australia,0
-1912,China,0
-1912,Finland,0
-1912,France,0
-1912,Great Britain,0
-1912,Italy,0
-1912,Japan,0
-1912,Mexico,0
-1912,Netherlands,0
-1912,Poland,0
-1912,Russia,0
-1912,South Korea,0
-1912,Soviet Union,0
-1912,Sweden,0
-1912,Ukraine,0
-1912,Unified Team,0
-1912,United States,0
-1920,Australia,0
-1920,China,0
-1920,Finland,0
-1920,France,0
-1920,Great Britain,0
-1920,Italy,0
-1920,Japan,0
-1920,Mexico,0
-1920,Netherlands,0
-1920,Poland,0
-1920,Russia,0
-1920,South Korea,0
-1920,Soviet Union,0
-1920,Sweden,0
-1920,Ukraine,0
-1920,Unified Team,0
-1920,United States,0
-1924,Australia,0
-1924,China,0
-1924,Finland,0
-1924,France,0
-1924,Great Britain,0
-1924,Italy,0
-1924,Japan,0
-1924,Mexico,0
-1924,Netherlands,0
-1924,Poland,0
-1924,Russia,0
-1924,South Korea,0
-1924,Soviet Union,0
-1924,Sweden,0
-1924,Ukraine,0
-1924,Unified Team,0
-1924,United States,0
-1928,Australia,0
-1928,China,0
-1928,Finland,0
-1928,France,0
-1928,Great Britain,0
-1928,Italy,0
-1928,Japan,0
-1928,Mexico,0
-1928,Netherlands,0
-1928,Poland,0
-1928,Russia,0
-1928,South Korea,0
-1928,Soviet Union,0
-1928,Sweden,0
-1928,Ukraine,0
-1928,Unified Team,0
-1928,United States,0
-1932,Australia,0
-1932,China,0
-1932,Finland,0
-1932,France,0
-1932,Great Britain,0
-1932,Italy,0
-1932,Japan,0
-1932,Mexico,0
-1932,Netherlands,0
-1932,Poland,0
-1932,Russia,0
-1932,South Korea,0
-1932,Soviet Union,0
-1932,Sweden,0
-1932,Ukraine,0
-1932,Unified Team,0
-1932,United States,0
-1936,Australia,0
-1936,China,0
-1936,Finland,0
-1936,France,0
-1936,Great Britain,0
-1936,Italy,0
-1936,Japan,0
-1936,Mexico,0
-1936,Netherlands,0
-1936,Poland,0
-1936,Russia,0
-1936,South Korea,0
-1936,Soviet Union,0
-1936,Sweden,0
-1936,Ukraine,0
-1936,Unified Team,0
-1936,United States,0
-1948,Australia,0
-1948,China,0
-1948,Finland,0
-1948,France,0
-1948,Great Britain,0
-1948,Italy,0
-1948,Japan,0
-1948,Mexico,0
-1948,Netherlands,0
-1948,Poland,0
-1948,Russia,0
-1948,South Korea,0
-1948,Soviet Union,0
-1948,Sweden,0
-1948,Ukraine,0
-1948,Unified Team,0
-1948,United States,0
-1952,Australia,0
-1952,China,0
-1952,Finland,0
-1952,France,0
-1952,Great Britain,0
-1952,Italy,0
-1952,Japan,0
-1952,Mexico,0
-1952,Netherlands,0
-1952,Poland,0
-1952,Russia,0
-1952,South Korea,0
-1952,Soviet Union,0
-1952,Sweden,0
-1952,Ukraine,0
-1952,Unified Team,0
-1952,United States,0
-1956,Australia,0
-1956,China,0
-1956,Finland,0
-1956,France,0
-1956,Great Britain,0
-1956,Italy,0
-1956,Japan,0
-1956,Mexico,0
-1956,Netherlands,0
-1956,Poland,0
-1956,Russia,0
-1956,South Korea,0
-1956,Soviet Union,0
-1956,Sweden,0
-1956,Ukraine,0
-1956,Unified Team,0
-1956,United States,0
-1960,Australia,0
-1960,China,0
-1960,Finland,0
-1960,France,0
-1960,Great Britain,0
-1960,Italy,0
-1960,Japan,0
-1960,Mexico,0
-1960,Netherlands,0
-1960,Poland,0
-1960,Russia,0
-1960,South Korea,0
-1960,Soviet Union,0
-1960,Sweden,0
-1960,Ukraine,0
-1960,Unified Team,0
-1960,United States,0
 1964,Australia,0
 1964,China,0
+1964,Chinese Taipei,0
 1964,Finland,0
 1964,France,0
+1964,Germany,0
 1964,Great Britain,0
+1964,Indonesia,0
 1964,Italy,0
 1964,Japan,0
 1964,Mexico,0
@@ -198,32 +14,19 @@
 1964,Russia,0
 1964,South Korea,0
 1964,Soviet Union,0
+1964,Spain,0
 1964,Sweden,0
 1964,Ukraine,0
 1964,Unified Team,0
 1964,United States,0
-1968,Australia,0
-1968,China,0
-1968,Finland,0
-1968,France,0
-1968,Great Britain,0
-1968,Italy,0
-1968,Japan,0
-1968,Mexico,0
-1968,Netherlands,0
-1968,Poland,0
-1968,Russia,0
-1968,South Korea,0
-1968,Soviet Union,0
-1968,Sweden,0
-1968,Ukraine,0
-1968,Unified Team,0
-1968,United States,0
 1972,Australia,0
 1972,China,0
+1972,Chinese Taipei,0
 1972,Finland,1
 1972,France,0
+1972,Germany,0
 1972,Great Britain,0
+1972,Indonesia,0
 1972,Italy,0
 1972,Japan,0
 1972,Mexico,0
@@ -232,15 +35,19 @@
 1972,Russia,0
 1972,South Korea,0
 1972,Soviet Union,1
+1972,Spain,0
 1972,Sweden,2
 1972,Ukraine,0
 1972,Unified Team,0
 1972,United States,6
 1976,Australia,0
 1976,China,0
+1976,Chinese Taipei,0
 1976,Finland,0
 1976,France,0
+1976,Germany,0
 1976,Great Britain,0
+1976,Indonesia,0
 1976,Italy,1
 1976,Japan,2
 1976,Mexico,0
@@ -249,15 +56,19 @@
 1976,Russia,0
 1976,South Korea,0
 1976,Soviet Union,3
+1976,Spain,0
 1976,Sweden,0
 1976,Ukraine,0
 1976,Unified Team,0
 1976,United States,6
 1980,Australia,0
 1980,China,0
+1980,Chinese Taipei,0
 1980,Finland,4
 1980,France,0
+1980,Germany,0
 1980,Great Britain,0
+1980,Indonesia,0
 1980,Italy,1
 1980,Japan,0
 1980,Mexico,0
@@ -266,15 +77,19 @@
 1980,Russia,0
 1980,South Korea,0
 1980,Soviet Union,7
+1980,Spain,0
 1980,Sweden,0
 1980,Ukraine,0
 1980,Unified Team,0
 1980,United States,0
 1984,Australia,0
 1984,China,2
+1984,Chinese Taipei,0
 1984,Finland,0
 1984,France,0
+1984,Germany,0
 1984,Great Britain,0
+1984,Indonesia,0
 1984,Italy,0
 1984,Japan,1
 1984,Mexico,0
@@ -283,126 +98,155 @@
 1984,Russia,0
 1984,South Korea,4
 1984,Soviet Union,0
+1984,Spain,0
 1984,Sweden,0
 1984,Ukraine,0
 1984,Unified Team,0
 1984,United States,5
 1988,Australia,0
 1988,China,0
+1988,Chinese Taipei,0
 1988,Finland,0
 1988,France,0
-1988,Great Britain,0
+1988,Germany,0
+1988,Great Britain,1
+1988,Indonesia,2
 1988,Italy,0
 1988,Japan,0
 1988,Mexico,0
 1988,Netherlands,0
 1988,Poland,0
 1988,Russia,0
-1988,South Korea,8
+1988,South Korea,14
 1988,Soviet Union,1
+1988,Spain,0
 1988,Sweden,0
 1988,Ukraine,0
 1988,Unified Team,0
-1988,United States,3
+1988,United States,6
 1992,Australia,0
-1992,China,0
-1992,Finland,0
+1992,China,2
+1992,Chinese Taipei,0
+1992,Finland,2
 1992,France,3
-1992,Great Britain,1
+1992,Germany,0
+1992,Great Britain,2
+1992,Indonesia,0
 1992,Italy,0
 1992,Japan,0
 1992,Mexico,0
 1992,Netherlands,0
 1992,Poland,0
 1992,Russia,0
-1992,South Korea,7
+1992,South Korea,10
 1992,Soviet Union,0
+1992,Spain,3
 1992,Sweden,0
 1992,Ukraine,0
-1992,Unified Team,1
+1992,Unified Team,2
 1992,United States,0
 1996,Australia,0
 1996,China,2
+1996,Chinese Taipei,0
 1996,Finland,0
 1996,France,0
+1996,Germany,2
 1996,Great Britain,0
-1996,Italy,0
+1996,Indonesia,0
+1996,Italy,1
 1996,Japan,0
 1996,Mexico,0
 1996,Netherlands,0
-1996,Poland,0
+1996,Poland,1
 1996,Russia,0
-1996,South Korea,4
+1996,South Korea,9
 1996,Soviet Union,0
+1996,Spain,0
 1996,Sweden,2
 1996,Ukraine,1
 1996,Unified Team,0
-1996,United States,3
+1996,United States,6
 2000,Australia,3
 2000,China,0
+2000,Chinese Taipei,0
 2000,Finland,0
 2000,France,0
+2000,Germany,1
 2000,Great Britain,0
-2000,Italy,0
+2000,Indonesia,0
+2000,Italy,2
 2000,Japan,0
 2000,Mexico,0
 2000,Netherlands,1
 2000,Poland,0
 2000,Russia,0
-2000,South Korea,6
+2000,South Korea,12
 2000,Soviet Union,0
+2000,Spain,0
 2000,Sweden,0
-2000,Ukraine,0
+2000,Ukraine,2
 2000,Unified Team,0
-2000,United States,2
+2000,United States,3
 2004,Australia,1
-2004,China,0
+2004,China,2
+2004,Chinese Taipei,1
 2004,Finland,0
 2004,France,0
+2004,Germany,0
 2004,Great Britain,1
+2004,Indonesia,0
 2004,Italy,3
 2004,Japan,2
 2004,Mexico,0
 2004,Netherlands,0
 2004,Poland,0
 2004,Russia,0
-2004,South Korea,5
+2004,South Korea,13
 2004,Soviet Union,0
+2004,Spain,0
 2004,Sweden,0
-2004,Ukraine,0
+2004,Ukraine,1
 2004,Unified Team,0
 2004,United States,0
 2008,Australia,0
-2008,China,3
+2008,China,6
+2008,Chinese Taipei,0
 2008,Finland,0
-2008,France,0
+2008,France,1
+2008,Germany,0
 2008,Great Britain,0
-2008,Italy,0
+2008,Indonesia,0
+2008,Italy,2
 2008,Japan,0
 2008,Mexico,0
 2008,Netherlands,0
 2008,Poland,0
 2008,Russia,1
-2008,South Korea,5
+2008,South Korea,11
 2008,Soviet Union,0
+2008,Spain,0
 2008,Sweden,0
 2008,Ukraine,3
 2008,Unified Team,0
 2008,United States,0
 2012,Australia,0
-2012,China,1
+2012,China,3
+2012,Chinese Taipei,0
 2012,Finland,0
 2012,France,0
+2012,Germany,0
 2012,Great Britain,0
-2012,Italy,0
-2012,Japan,2
+2012,Indonesia,0
+2012,Italy,3
+2012,Japan,3
 2012,Mexico,3
 2012,Netherlands,0
 2012,Poland,0
 2012,Russia,0
-2012,South Korea,6
+2012,South Korea,10
 2012,Soviet Union,0
+2012,Spain,0
 2012,Sweden,0
 2012,Ukraine,0
 2012,Unified Team,0
-2012,United States,0
+2012,United States,2

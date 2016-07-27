@@ -10,6 +10,27 @@ archery,M, Men's events,1980 Moscow,3, (Giancarlo Ferrari),Italy,ITA,Europe
 archery,M, Men's events,1984 Los Angeles,1, (Darrell Pace),United States,USA,North America
 archery,M, Men's events,1984 Los Angeles,2, (Richard McKinney),United States,USA,North America
 archery,M, Men's events,1984 Los Angeles,3, (Hiroshi Yamamoto),Japan,JPN,Asia
+archery,M, Men's events,1988 Seoul,1, (),South Korea,KOR,Asia
+archery,M, Men's events,1988 Seoul,2, (),United States,USA,North America
+archery,M, Men's events,1988 Seoul,3, (),Great Britain,GBR,Europe
+archery,M, Men's events,1992 Barcelona,1, (),Spain,ESP,Europe
+archery,M, Men's events,1992 Barcelona,2, (),Finland,FIN,Europe
+archery,M, Men's events,1992 Barcelona,3, (),Great Britain,GBR,Europe
+archery,M, Men's events,1996 Atlanta,1, (),United States,USA,North America
+archery,M, Men's events,1996 Atlanta,2, (),South Korea,KOR,Asia
+archery,M, Men's events,1996 Atlanta,3, (),Italy,ITA,Europe
+archery,M, Men's events,2000 Sydney,1, (),South Korea,KOR,Asia
+archery,M, Men's events,2000 Sydney,2, (),Italy,ITA,Europe
+archery,M, Men's events,2000 Sydney,3, (),United States,USA,North America
+archery,M, Men's events,2004 Athens,1, (),South Korea,KOR,Asia
+archery,M, Men's events,2004 Athens,2, (),South Korea,KOR,Asia
+archery,M, Men's events,2004 Athens,3, (),Ukraine,UKR,Europe
+archery,M, Men's events,2008 Beijing,1, (),South Korea,KOR,Asia
+archery,M, Men's events,2008 Beijing,2, (),Italy,ITA,Europe
+archery,M, Men's events,2008 Beijing,3, (),China,CHN,Asia
+archery,M, Men's events,2012 London,1, (),Italy,ITA,Europe
+archery,M, Men's events,2012 London,2, (),United States,USA,North America
+archery,M, Men's events,2012 London,3, (),South Korea,KOR,Asia
 archery,M, Men's events,1988 Seoul,1, (Jay Barrs),United States,USA,North America
 archery,M, Men's events,1988 Seoul,2, (Park Sung-Soo),South Korea,KOR,Asia
 archery,M, Men's events,1988 Seoul,3, (Vladimir Yesheyev),Soviet Union,URS,Asia
@@ -64,6 +85,28 @@ archery,F, Women's events,2008 Beijing,3, (Yun Ok-Hee),South Korea,KOR,Asia
 archery,F, Women's events,2012 London,1, (Ki Bo-bae),South Korea,KOR,Asia
 archery,F, Women's events,2012 London,2, (Aída Román),Mexico,MEX,North America
 archery,F, Women's events,2012 London,3, (Mariana Avitia),Mexico,MEX,North America
+archery,F, Women's events,1988 Seoul,1, (),South Korea,KOR,Asia
+archery,F, Women's events,1988 Seoul,2, (),Indonesia,IDN,Asia
+archery,F, Women's events,1988 Seoul,3, (),United States,USA,North America
+archery,F, Women's events,1992 Barcelona,1, (),South Korea,KOR,Asia
+archery,F, Women's events,1992 Barcelona,2, (),China,CHN,Asia
+archery,F, Women's events,1992 Barcelona,3, (),Unified Team,EUN,Asia
+archery,F, Women's events,1996 Atlanta,1, (),South Korea,KOR,Asia
+archery,F, Women's events,1996 Atlanta,2, (),Germany,GER,Europe
+archery,F, Women's events,1996 Atlanta,3, (),Poland,POL,Europe
+archery,F, Women's events,2000 Sydney,1, (),South Korea,KOR,Asia
+archery,F, Women's events,2000 Sydney,2, (),Ukraine,UKR,Europe
+archery,F, Women's events,2000 Sydney,3, (),Germany,GER,Europe
+archery,F, Women's events,2004 Athens,1, (),South Korea,KOR,Asia
+archery,F, Women's events,2004 Athens,2, (),China,CHN,Asia
+archery,F, Women's events,2004 Athens,3, (),Chinese Taipei,
+
+archery,F, Women's events,2008 Beijing,1, (),South Korea,KOR,Asia
+archery,F, Women's events,2008 Beijing,2, (),China,CHN,Asia
+archery,F, Women's events,2008 Beijing,3, (),France,FRA,Europe
+archery,F, Women's events,2012 London,1, (),South Korea,KOR,Asia
+archery,F, Women's events,2012 London,2, (),China,CHN,Asia
+archery,F, Women's events,2012 London,3, (),Japan,JPN,Asia
 athletics,M,100 metres,1896 Athens,1, Thomas Burke,United States,USA,North America
 athletics,M,100 metres,1896 Athens,2, Fritz Hofmann,Germany,GER,Europe
 athletics,M,100 metres,1896 Athens,3, Francis Lane,United States,USA,North America
