@@ -26,7 +26,7 @@ for my $f (keys %$abb) {
 
 my $year;
 open FILE, ">olympic.csv";
-for my $current (glob("all.csv")) {
+for my $current ("all.csv") {
     open CUR, $current;
     while (<CUR>) {
         my @r = split(',', $_);
@@ -75,6 +75,7 @@ my @all_year;
 for my $item (keys %$grade_year) {
     @all_year = sort keys $grade_year->{$item};
     for my $y (@all_year) {
+        print "$item\t$y\n";
         for my $c (sort keys $grade_year->{$item}->{$y}) {
             unless (exists $all_country->{$item}->{$c}) {
                 $all_country->{$item}->{$c} = 1;
@@ -85,8 +86,7 @@ for my $item (keys %$grade_year) {
 
 for my $item (keys %$grade_year) {
     open GRADE_ITEM, ">./item/$item.csv" or die $!;
-    for my $year (@all_year) {
-        print "$item\t$year\n";
+    for my $year (sort keys $grade_year->{$item}) {
         my @yearly;
         push @yearly, $year;
         for my $country (sort keys %{$all_country->{$item}}) {
