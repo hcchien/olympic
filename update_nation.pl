@@ -86,6 +86,7 @@ for my $item (keys %$grade_year) {
 for my $item (keys %$grade_year) {
     open GRADE_ITEM, ">./item/$item.csv" or die $!;
     for my $year (@all_year) {
+        print "$item\t$year\n";
         my @yearly;
         push @yearly, $year;
         for my $country (sort keys %{$all_country->{$item}}) {
