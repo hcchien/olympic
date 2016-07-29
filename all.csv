@@ -6174,7 +6174,7 @@ swimming,M,,1996 Atlanta,2,,Russia,
 swimming,M,,1996 Atlanta,3,,Germany,
 swimming,M,,2000 Sydney,1,,Australia,
 swimming,M,,2000 Sydney,2,,United States,
-swimming,M,,2000 Sydney,3,Brazil,
+swimming,M,,2000 Sydney,3,,Brazil,
 swimming,M,,2004 Athens,1,,South Africa,
 swimming,M,,2004 Athens,2,,Netherlands,
 swimming,M,,2004 Athens,3,,United States,
@@ -6279,7 +6279,7 @@ swimming,M,,1984 Los Angeles,2,,Canada,
 swimming,M,,1984 Los Angeles,3,,Australia,
 swimming,M,,1988 Seoul,1,,United States,
 swimming,M,,1988 Seoul,2,,Canada,
-swimming,M,,1988 Seoul,3,Soviet Union,
+swimming,M,,1988 Seoul,3,,Soviet Union,
 swimming,M,,1992 Barcelona,1,,United States,
 swimming,M,,1992 Barcelona,2,,Unified Team,
 swimming,M,,1992 Barcelona,3,,Canada,
@@ -7280,9 +7280,9 @@ archery,,,1908 London,3,Joseph Hermans,Belgium,
 archery,,Team fixed small bird,1908 London,1,,Belgium,
 archery,,,1908 London,1,Hubert Van Innis,Belgium,
 archery,,,1908 London,2,Léonce Quentin,France,
-archery,,Team moving bird, 28 m,1908 London,1,,Netherlands,
-archery,,Team moving bird, 28 m,1908 London,2,,Belgium,
-archery,,Team moving bird, 28 m,1908 London,3,,France,
+archery,,Team moving bird 28 m,1908 London,1,,Netherlands,
+archery,,Team moving bird 28 m,1908 London,2,,Belgium,
+archery,,Team moving bird 28 m,1908 London,3,,France,
 archery,,,1908 London,1,Hubert Van Innis,Belgium,
 archery,,,1908 London,2,Julien Brulé,France,
 archery,,,1908 London,1,Julien Brulé,France,
@@ -7573,7 +7573,7 @@ cycling,M,,1936 Berlin,2,,Switzerland,
 cycling,M,,1936 Berlin,3,,Belgium,
 cycling,M,,1948 London,1,,Belgium,
 cycling,M,,1948 London,2,,Great Britain,
-cycling,M,,1948 London,3,France,
+cycling,M,,1948 London,3,,France,
 cycling,M,,1952 Helsinki,1,,Belgium,
 cycling,M,,1952 Helsinki,2,,Italy,
 cycling,M,,1952 Helsinki,3,,France,
@@ -9783,24 +9783,24 @@ tennis,,,1912 Stockholm,3,Alfred Beamish,Great Britain,
 tennis,,,1912 Stockholm,1,Edith Hannam,Great Britain,
 tennis,,,1912 Stockholm,2,Helen Aitchison,Great Britain,
 tennis,,,1912 Stockholm,3,Sigrid Fick,Sweden,
-athletics,M,,1896 Athens,1,Thomas Burke,,USA
-athletics,M,,1896 Athens,2,Fritz Hofmann,,GER
-athletics,M,,1896 Athens,3,Francis Lane,,USA
-athletics,M,,1896 Athens,3,Alajos Szokolyi,,HUN
-athletics,M,,1900 Paris,1,Frank Jarvis,,USA
-athletics,M,,1900 Paris,2,Walter Tewksbury,,USA
-athletics,M,,1900 Paris,3,Stan Rowley,,AUS
-athletics,M,,1904 St. Louis,1,Archie Hahn,,USA
-athletics,M,,1904 St. Louis,2,Nate Cartmell,,USA
-athletics,M,,1904 St. Louis,3,William Hogenson,,USA
-athletics,M,,1908 London,1,Reggie Walker,,RSA
-athletics,M,,1908 London,2,James Rector,,USA
-athletics,M,,1908 London,3,Robert Kerr,,CAN
-athletics,M,,1912 Stockholm,1,Ralph Craig,,USA
-athletics,M,,1912 Stockholm,2,Alvah Meyer,,USA
-athletics,M,,1912 Stockholm,3,Donald Lippincott,,USA
-athletics,M,,1920 Antwerp,1,Charlie Paddock,,USA
-athletics,M,,1920 Antwerp,2,Morris Kirksey,,USA
+athletics,M,,1896 Athens,1,Thomas Burke,USA,
+athletics,M,,1896 Athens,2,Fritz Hofmann,GER,
+athletics,M,,1896 Athens,3,Francis Lane,USA,
+athletics,M,,1896 Athens,3,Alajos Szokolyi,HUN,
+athletics,M,,1900 Paris,1,Frank Jarvis,USA,
+athletics,M,,1900 Paris,2,Walter Tewksbury,USA,
+athletics,M,,1900 Paris,3,Stan Rowley,AUS,
+athletics,M,,1904 St. Louis,1,Archie Hahn,USA,
+athletics,M,,1904 St. Louis,2,Nate Cartmell,USA,
+athletics,M,,1904 St. Louis,3,William Hogenson,USA,
+athletics,M,,1908 London,1,Reggie Walker,RSA,
+athletics,M,,1908 London,2,James Rector,USA,
+athletics,M,,1908 London,3,Robert Kerr,CAN,
+athletics,M,,1912 Stockholm,1,Ralph Craig,USA,
+athletics,M,,1912 Stockholm,2,Alvah Meyer,USA,
+athletics,M,,1912 Stockholm,3,Donald Lippincott,USA,
+athletics,M,,1920 Antwerp,1,Charlie Paddock,USA,
+athletics,M,,1920 Antwerp,2,Morris Kirksey,USA,
 athletics,M,,1920 Antwerp,3,Harry Edward,,GBR
 athletics,M,,1924 Paris,1,Harold Abrahams,,GBR
 athletics,M,,1924 Paris,2,Jackson Scholz,,USA

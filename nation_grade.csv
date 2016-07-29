@@ -50,18 +50,18 @@ Judo, Uzbekistan, 6
 Judo, West Germany, 13
 Judo, Yugoslavia, 2
 archery, Australia, 4
-archery, Belgium, 40
+archery, Belgium, 42
 archery, China, 17
 archery, Chinese Taipei, 3
 archery, Finland, 7
-archery, France, 38
+archery, France, 39
 archery, Germany, 3
 archery, Great Britain, 15
 archery, Indonesia, 2
 archery, Italy, 13
 archery, Japan, 8
 archery, Mexico, 3
-archery, Netherlands, 1
+archery, Netherlands, 4
 archery, Poland, 3
 archery, Russia, 1
 archery, South Korea, 81
@@ -71,42 +71,107 @@ archery, Sweden, 4
 archery, Ukraine, 7
 archery, Unified Team, 2
 archery, United States, 70
+athletics, Algeria, 16
+athletics, Argentina, 12
 athletics, Australasia, 1
-athletics, Australia, 15
-athletics, Bahamas, 11
-athletics, Belgium, 2
-athletics, Brazil, 3
-athletics, British West Indies, 1
+athletics, Australia, 141
+athletics, Austria, 11
+athletics, Bahamas, 20
+athletics, Barbados, 1
+athletics, Belarus, 29
+athletics, Belgium, 23
+athletics, Bohemia, 2
+athletics, Botswana, 2
+athletics, Brazil, 25
+athletics, British West Indies, 2
 athletics, Bruce Jenner, 3
-athletics, Canada, 23
-athletics, Cuba, 9
-athletics, East Germany, 23
-athletics, Finland, 36
-athletics, France, 20
-athletics, Germany, 23
-athletics, Great Britain, 101
-athletics, Greece, 2
-athletics, Hungary, 2
-athletics, India, 2
-athletics, Italy, 8
-athletics, Jamaica, 29
-athletics, Japan, 1
-athletics, Kenya, 5
+athletics, Brunei, 1
+athletics, Bulgaria, 35
+athletics, Burundi, 3
+athletics, Cameroon, 6
+athletics, Canada, 96
+athletics, Ceylon, 2
+athletics, Chile, 4
+athletics, China, 38
+athletics, Colombia, 3
+athletics, Croatia, 5
+athletics, Cuba, 74
+athletics, Czech Republic, 22
+athletics, Czechoslovakia, 54
+athletics, Denmark, 9
+athletics, Djibouti, 1
+athletics, Dominican Republic, 8
+athletics, East Germany, 221
+athletics, Ecuador, 5
+athletics, Eritrea, 1
+athletics, Estonia, 11
+athletics, Ethiopia, 94
+athletics, Finland, 245
+athletics, France, 113
+athletics, Germany, 141
+athletics, Great Britain, 388
+athletics, Greece, 51
+athletics, Grenada, 3
+athletics, Guatemala, 2
+athletics, Haiti, 2
+athletics, Hungary, 71
+athletics, Iceland, 3
+athletics, India, 4
+athletics, Iran, 2
+athletics, Ireland, 17
+athletics, Italy, 113
+athletics, Ivory Coast (Côte d'Ivoire), 2
+athletics, Jamaica, 124
+athletics, Japan, 44
+athletics, Kazakhstan, 7
+athletics, Kenya, 158
 athletics, Konstantinos Tsiklitiras, 2
-athletics, Netherlands, 4
-athletics, Nigeria, 12
-athletics, Norway, 1
-athletics, Poland, 10
-athletics, Russia, 13
-athletics, South Africa, 2
-athletics, Soviet Union, 30
+athletics, Latvia, 9
+athletics, Lithuania, 12
+athletics, Luxembourg, 3
+athletics, Mexico, 21
+athletics, Morocco, 36
+athletics, Mozambique, 4
+athletics, Namibia, 8
+athletics, Netherlands, 30
+athletics, New Zealand, 42
+athletics, Nigeria, 20
+athletics, Norway, 39
+athletics, Panama, 5
+athletics, Philippines, 2
+athletics, Poland, 118
+athletics, Portugal, 20
+athletics, Puerto Rico, 1
+athletics, Qatar, 2
+athletics, Romania, 71
+athletics, Russia, 152
+athletics, Saudi Arabia, 2
+athletics, Senegal, 2
+athletics, Slovenia, 8
+athletics, South Africa, 48
+athletics, South Korea, 5
+athletics, Soviet Union, 376
+athletics, Spain, 20
 athletics, Sr., 5
-athletics, Sweden, 24
-athletics, Trinidad and Tobago, 5
-athletics, Ukraine, 1
-athletics, Unified Team, 5
-athletics, United States, 242
-athletics, West Germany, 11
+athletics, Sri Lanka, 2
+athletics, Sudan, 2
+athletics, Sweden, 142
+athletics, Switzerland, 14
+athletics, Syria, 3
+athletics, Taiwan, 3
+athletics, Tanzania, 4
+athletics, Trinidad and Tobago, 22
+athletics, Tunisia, 10
+athletics, Turkey, 8
+athletics, Uganda, 7
+athletics, Ukraine, 24
+athletics, Unified Team, 46
+athletics, United States, 1658
+athletics, United Team of Germany, 48
+athletics, Venezuela, 1
+athletics, West Germany, 81
+athletics, Yugoslavia, 4
+athletics, Zambia, 2
 badminton, China, 76
 badminton, Denmark, 10
 badminton, Great Britain, 3
@@ -242,7 +307,7 @@ cycling, Czechoslovakia, 12
 cycling, Denmark, 45
 cycling, East Germany, 34
 cycling, Estonia, 3
-cycling, France, 199
+cycling, France, 200
 cycling, Germany, 95
 cycling, Great Britain, 153
 cycling, Greece, 9
@@ -502,7 +567,7 @@ swimming, Australia, 349
 swimming, Austria, 19
 swimming, Belarus, 4
 swimming, Belgium, 7
-swimming, Brazil, 17
+swimming, Brazil, 18
 swimming, Bulgaria, 6
 swimming, Canada, 71
 swimming, China, 76
@@ -535,7 +600,7 @@ swimming, Slovakia, 4
 swimming, Slovenia, 2
 swimming, South Africa, 28
 swimming, South Korea, 7
-swimming, Soviet Union, 98
+swimming, Soviet Union, 99
 swimming, Spain, 10
 swimming, Sr., 10
 swimming, Suriname, 4

@@ -6,16 +6,17 @@ Judo, Oceania, 2
 Judo, South America, 30
 archery, , 3
 archery, Asia, 122
-archery, Europe, 135
+archery, Europe, 141
 archery, North America, 73
 archery, Oceania, 4
-athletics, , 6
-athletics, Africa, 19
-athletics, Asia, 38
-athletics, Europe, 281
-athletics, North America, 315
-athletics, Oceania, 15
-athletics, South America, 8
+athletics, , 48
+athletics, Africa, 418
+athletics, Asia, 541
+athletics, Europe, 2344
+athletics, Middle America, 2
+athletics, North America, 2006
+athletics, Oceania, 183
+athletics, South America, 68
 athletics, USA
 , 5
 badminton, Asia, 158
@@ -36,7 +37,7 @@ canoeing, North America, 22
 canoeing, Oceania, 13
 cycling, Africa, 14
 cycling, Asia, 70
-cycling, Europe, 1012
+cycling, Europe, 1013
 cycling, North America, 120
 cycling, Oceania, 106
 cycling, South America, 12
@@ -78,11 +79,11 @@ swimming, , 15
 swimming, 
 , 19
 swimming, Africa, 50
-swimming, Asia, 344
+swimming, Asia, 345
 swimming, Europe, 1059
 swimming, North America, 1170
 swimming, Oceania, 360
-swimming, South America, 29
+swimming, South America, 30
 table tennis, , 3
 table tennis, Asia, 133
 table tennis, Europe, 20

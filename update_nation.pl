@@ -44,14 +44,23 @@ for my $current ("all.csv") {
                 $r[8] = $nation->{$r[6]}->{'continent'};
                 $r[6] = $nation->{$r[6]}->{'name'};
             } else {
-                print "$r[6] is npt in the mapping table.\n";
+                print "$r[6] is not in the mapping table.\n";
             }
         } elsif ($r[6] and $r[6] =~ /[\w ]+/) {
             if (exists $abb->{$r[6]}) {
                 $r[8] = $abb->{$r[6]}->{'continent'};
                 $r[7] = $abb->{$r[6]}->{'abbreviation'};
             }
+        } elsif($r[7] =~ /[A-Z]{3}/) {
+            chomp($r[7]);
+            if (exists $nation->{$r[7]}) {
+                $r[8] = $nation->{$r[7]}->{'continent'};
+                $r[6] = $nation->{$r[7]}->{'name'};
+            } else {
+                print "$r[7] is not in the mapping table!\n";
+            }
         } else {
+            print "$_\n";
             next;
         }
         my $point;
@@ -75,7 +84,7 @@ my @all_year;
 for my $item (keys %$grade_year) {
     @all_year = sort keys $grade_year->{$item};
     for my $y (@all_year) {
-        print "$item\t$y\n";
+        #print "$item\t$y\n";
         for my $c (sort keys $grade_year->{$item}->{$y}) {
             unless (exists $all_country->{$item}->{$c}) {
                 $all_country->{$item}->{$c} = 1;
